@@ -1,0 +1,17 @@
+3月12日 5:14:35 替换文本失败,多个相同:M = bson.M
+3月12日 5:17:39 重命名失败,错误:没有找到:func +Open\(ctx +context\.Context, +conf +\*Config, +o +\.\.\.options\.ClientOptions\) +\(cli +\*QmgoClient, +err\b
+路径:E:\SVN\GO\code\qmgo\client.go
+
+3月12日 5:17:40 重命名失败,错误:没有找到:func +Open\(ctx +context\.Context, +conf +\*Config, +o +\.\.\.options\.ClientOptions\) +\(cli\b
+路径:E:\SVN\GO\code\qmgo\client.go
+
+3月12日 5:17:40 重命名失败,错误:没有找到:func +Open\(ctx +context\.Context, +conf +\*Config, +o\b
+路径:E:\SVN\GO\code\qmgo\client.go
+
+3月12日 5:17:41 重命名失败,错误:没有找到:func +Open\(ctx +context\.Context, +conf\b
+路径:E:\SVN\GO\code\qmgo\client.go
+
+3月12日 5:17:41 重命名失败,错误:没有找到:func +Open\(ctx\b
+路径:E:\SVN\GO\code\qmgo\client.go
+
+3月12日 5:29:24 替换文本失败,多个相同:M = bson.M
