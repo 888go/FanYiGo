@@ -1,0 +1,112 @@
+5月2日 18:56:9 开始生成模板
+
+5月2日 18:56:9 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\boundary_test.go
+
+5月2日 18:56:9 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\buffer.go
+
+5月2日 18:56:9 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\buffer_test.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\bytes.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\bytes_test.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\compare_test.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\example_test.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\export_test.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\reader.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\reader_test.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\cfg\cfg.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\platform\supported.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\platform\zosarch.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\memory_windows.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\mksyscall.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\net_windows.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\psapi_windows.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\reparse_windows.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\security_windows.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\symlink_windows.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\syscall_windows.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\zsyscall_windows.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\registry\key.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\registry\mksyscall.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\registry\syscall.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\registry\value.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\registry\zsyscall_windows.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\syscall\windows\sysdll\sysdll.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\testenv\exec.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\testenv\noopt.go
+
+5月2日 18:56:10 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\testenv\opt.go
+
+5月2日 18:56:11 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\testenv\testenv.go
+
+5月2日 18:56:11 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\testenv\testenv_notunix.go
+
+5月2日 18:56:11 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\testenv\testenv_notwin.go
+
+5月2日 18:56:11 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\testenv\testenv_unix.go
+
+5月2日 18:56:11 生成完毕:
+E:\SVN\GO\code\gosdk\bytes\internal\testenv\testenv_windows.go
+
+5月2日 18:56:11 生成模板全部完毕.
+

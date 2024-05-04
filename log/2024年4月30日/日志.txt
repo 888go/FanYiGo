@@ -1,0 +1,2944 @@
+4月30日 17:27:5 提取: E:\SVN\GO\code\gosdk\strconv\atob.go
+
+4月30日 17:27:5 提取: E:\SVN\GO\code\gosdk\strconv\atoc.go
+
+4月30日 17:27:6 提取: E:\SVN\GO\code\gosdk\strconv\atof.go
+
+4月30日 17:27:6 提取: E:\SVN\GO\code\gosdk\strconv\atoi.go
+
+4月30日 17:27:6 提取: E:\SVN\GO\code\gosdk\strconv\bytealg.go
+
+4月30日 17:27:6 提取: E:\SVN\GO\code\gosdk\strconv\bytealg_bootstrap.go
+
+4月30日 17:27:6 提取: E:\SVN\GO\code\gosdk\strconv\ctoa.go
+
+4月30日 17:27:6 提取: E:\SVN\GO\code\gosdk\strconv\decimal.go
+
+4月30日 17:27:7 提取: E:\SVN\GO\code\gosdk\strconv\doc.go
+
+4月30日 17:27:7 提取: E:\SVN\GO\code\gosdk\strconv\eisel_lemire.go
+
+4月30日 17:27:8 提取: E:\SVN\GO\code\gosdk\strconv\ftoa.go
+
+4月30日 17:27:8 提取: E:\SVN\GO\code\gosdk\strconv\ftoaryu.go
+
+4月30日 17:27:8 提取: E:\SVN\GO\code\gosdk\strconv\isprint.go
+
+4月30日 17:27:9 提取: E:\SVN\GO\code\gosdk\strconv\itoa.go
+
+4月30日 17:27:9 提取: E:\SVN\GO\code\gosdk\strconv\makeisprint.go
+
+4月30日 17:27:9 提取: E:\SVN\GO\code\gosdk\strconv\quote.go
+
+4月30日 17:27:9 提取完毕.累计提取43个方法复制文件:16个文件
+
+4月30日 17:27:57 提取: E:\SVN\GO\code\gosdk\time\embed.go
+
+4月30日 17:28:1 提取: E:\SVN\GO\code\gosdk\time\format.go
+
+4月30日 17:28:2 提取: E:\SVN\GO\code\gosdk\time\format_rfc3339.go
+
+4月30日 17:28:2 提取: E:\SVN\GO\code\gosdk\time\genzabbrs.go
+
+4月30日 17:28:2 提取: E:\SVN\GO\code\gosdk\time\sleep.go
+
+4月30日 17:28:2 提取: E:\SVN\GO\code\gosdk\time\sys.go
+
+4月30日 17:28:2 提取: E:\SVN\GO\code\gosdk\time\sys.go
+
+4月30日 17:28:2 提取: E:\SVN\GO\code\gosdk\time\sys.go
+
+4月30日 17:28:3 提取: E:\SVN\GO\code\gosdk\time\tick.go
+
+4月30日 17:28:3 提取: E:\SVN\GO\code\gosdk\time\time.go
+
+4月30日 17:28:4 提取: E:\SVN\GO\code\gosdk\time\zoneinfo.go
+
+4月30日 17:28:4 提取: E:\SVN\GO\code\gosdk\time\zoneinfo_abbrs.go
+
+4月30日 17:28:4 提取: E:\SVN\GO\code\gosdk\time\zoneinfo_android.go
+
+4月30日 17:28:4 提取: E:\SVN\GO\code\gosdk\time\zoneinfo_goroot.go
+
+4月30日 17:28:4 提取: E:\SVN\GO\code\gosdk\time\zoneinfo_ios.go
+
+4月30日 17:28:5 提取: E:\SVN\GO\code\gosdk\time\zoneinfo.go
+
+4月30日 17:28:5 提取: E:\SVN\GO\code\gosdk\time\zoneinfo.go
+
+4月30日 17:28:5 提取: E:\SVN\GO\code\gosdk\time\zoneinfo_read.go
+
+4月30日 17:28:5 提取: E:\SVN\GO\code\gosdk\time\zoneinfo.go
+
+4月30日 17:28:6 提取: E:\SVN\GO\code\gosdk\time\zoneinfo_wasip1.go
+
+4月30日 17:28:6 提取: E:\SVN\GO\code\gosdk\time\zoneinfo.go
+
+4月30日 17:28:6 提取: E:\SVN\GO\code\gosdk\time\tzdata\tzdata.go
+
+4月30日 17:28:6 提取: E:\SVN\GO\code\gosdk\time\tzdata\zzipdata.go
+
+4月30日 17:28:6 提取完毕.累计提取118个方法复制文件:19个文件
+
+4月30日 17:31:40 提取: E:\SVN\GO\code\gosdk\fmt\doc.go
+
+4月30日 17:31:41 提取: E:\SVN\GO\code\gosdk\fmt\errors.go
+
+4月30日 17:31:41 提取: E:\SVN\GO\code\gosdk\fmt\format.go
+
+4月30日 17:31:42 提取: E:\SVN\GO\code\gosdk\fmt\print.go
+
+4月30日 17:31:43 提取: E:\SVN\GO\code\gosdk\fmt\scan.go
+
+4月30日 17:31:43 提取完毕.累计提取26个方法复制文件:9个文件
+
+4月30日 17:39:12 提取: E:\SVN\GO\code\gosdk\bytes\buffer.go
+
+4月30日 17:39:13 提取: E:\SVN\GO\code\gosdk\bytes\bytes.go
+
+4月30日 17:39:13 提取: E:\SVN\GO\code\gosdk\bytes\reader.go
+
+4月30日 17:39:13 提取完毕.累计提取94个方法复制文件:7个文件
+
+4月30日 17:55:21 提取: E:\SVN\GO\code\gosdk\regexp\backtrack.go
+
+4月30日 17:55:22 提取: E:\SVN\GO\code\gosdk\regexp\exec.go
+
+4月30日 17:55:22 提取: E:\SVN\GO\code\gosdk\regexp\onepass.go
+
+4月30日 17:55:23 提取: E:\SVN\GO\code\gosdk\regexp\regexp.go
+
+4月30日 17:55:23 提取: E:\SVN\GO\code\gosdk\regexp\syntax\compile.go
+
+4月30日 17:55:23 提取: E:\SVN\GO\code\gosdk\regexp\syntax\doc.go
+
+4月30日 17:55:25 提取: E:\SVN\GO\code\gosdk\regexp\syntax\op_string.go
+
+4月30日 17:55:25 提取: E:\SVN\GO\code\gosdk\regexp\syntax\parse.go
+
+4月30日 17:55:25 提取: E:\SVN\GO\code\gosdk\regexp\syntax\perl_groups.go
+
+4月30日 17:55:25 提取: E:\SVN\GO\code\gosdk\regexp\syntax\prog.go
+
+4月30日 17:55:26 提取: E:\SVN\GO\code\gosdk\regexp\syntax\regexp.go
+
+4月30日 17:55:26 提取: E:\SVN\GO\code\gosdk\regexp\syntax\simplify.go
+
+4月30日 17:55:26 提取完毕.累计提取89个方法复制文件:17个文件
+
+5月1日 2:27:47 开始提取注释
+
+5月1日 2:27:47 新增注释:
+// This file tests the situation where byte operations are checking
+// data very near to a page boundary. We want to make sure those
+// operations do not read across the boundary and cause a page
+// fault where they shouldn't.
+
+5月1日 2:27:47 新增注释:
+// These tests run only on linux. The code being tested is
+// not OS-specific, so it does not need to be tested on all
+// operating systems.
+
+5月1日 2:27:47 新增注释:
+// dangerousSlice returns a slice which is immediately
+// preceded and followed by a faulting page.
+
+5月1日 2:27:47 新增注释:
+// Only worry about when we're near the end of a page.
+
+5月1日 2:27:47 新增注释:
+// difference is only found on the last byte
+
+5月1日 2:27:47 新增注释:
+// Test differing alignments and sizes of q which always end on a page boundary.
+
+5月1日 2:27:47 新增注释:
+// A Buffer is a variable-sized buffer of bytes with [Buffer.Read] and [Buffer.Write] methods.
+// The zero value for Buffer is an empty buffer ready to use.
+
+5月1日 2:27:47 新增注释:
+// Any other read operation.
+
+5月1日 2:27:47 新增注释:
+// MinRead is the minimum slice size passed to a Read call by
+// [Buffer.ReadFrom]. As long as the [Buffer] has at least MinRead bytes beyond
+// what is required to hold the contents of r, ReadFrom will not grow the
+// underlying buffer.
+
+5月1日 2:27:47 新增注释:
+// ErrTooLarge is passed to panic if memory cannot be allocated to store data in a buffer.
+
+5月1日 2:27:47 新增注释:
+// Bytes returns a slice of length b.Len() holding the unread portion of the buffer.
+// The slice is valid for use only until the next buffer modification (that is,
+// only until the next call to a method like [Buffer.Read], [Buffer.Write], [Buffer.Reset], or [Buffer.Truncate]).
+// The slice aliases the buffer content at least until the next buffer modification,
+// so immediate changes to the slice will affect the result of future reads.
+
+5月1日 2:27:47 新增注释:
+// AvailableBuffer returns an empty buffer with b.Available() capacity.
+// This buffer is intended to be appended to and
+// passed to an immediately succeeding [Buffer.Write] call.
+// The buffer is only valid until the next write operation on b.
+
+5月1日 2:27:47 新增注释:
+// String returns the contents of the unread portion of the buffer
+// as a string. If the [Buffer] is a nil pointer, it returns "<nil>".
+//
+// To build strings more efficiently, see the strings.Builder type.
+
+5月1日 2:27:47 新增注释:
+// Len returns the number of bytes of the unread portion of the buffer;
+// b.Len() == len(b.Bytes()).
+
+5月1日 2:27:47 新增注释:
+// Cap returns the capacity of the buffer's underlying byte slice, that is, the
+// total space allocated for the buffer's data.
+
+5月1日 2:27:47 新增注释:
+// Available returns how many bytes are unused in the buffer.
+
+5月1日 2:27:47 新增注释:
+// Truncate discards all but the first n unread bytes from the buffer
+// but continues to use the same allocated storage.
+// It panics if n is negative or greater than the length of the buffer.
+
+5月1日 2:27:47 新增注释:
+// Reset resets the buffer to be empty,
+// but it retains the underlying storage for use by future writes.
+// Reset is the same as [Buffer.Truncate](0).
+
+5月1日 2:27:47 新增注释:
+// Grow grows the buffer's capacity, if necessary, to guarantee space for
+// another n bytes. After Grow(n), at least n bytes can be written to the
+// buffer without another allocation.
+// If n is negative, Grow will panic.
+// If the buffer can't grow it will panic with [ErrTooLarge].
+
+5月1日 2:27:47 新增注释:
+// Write appends the contents of p to the buffer, growing the buffer as
+// needed. The return value n is the length of p; err is always nil. If the
+// buffer becomes too large, Write will panic with [ErrTooLarge].
+
+5月1日 2:27:47 新增注释:
+// WriteString appends the contents of s to the buffer, growing the buffer as
+// needed. The return value n is the length of s; err is always nil. If the
+// buffer becomes too large, WriteString will panic with [ErrTooLarge].
+
+5月1日 2:27:47 新增注释:
+// ReadFrom reads data from r until EOF and appends it to the buffer, growing
+// the buffer as needed. The return value n is the number of bytes read. Any
+// error except io.EOF encountered during the read is also returned. If the
+// buffer becomes too large, ReadFrom will panic with [ErrTooLarge].
+
+5月1日 2:27:47 新增注释:
+// WriteTo writes data to w until the buffer is drained or an error occurs.
+// The return value n is the number of bytes written; it always fits into an
+// int, but it is int64 to match the io.WriterTo interface. Any error
+// encountered during the write is also returned.
+
+5月1日 2:27:47 新增注释:
+// WriteByte appends the byte c to the buffer, growing the buffer as needed.
+// The returned error is always nil, but is included to match [bufio.Writer]'s
+// WriteByte. If the buffer becomes too large, WriteByte will panic with
+// [ErrTooLarge].
+
+5月1日 2:27:47 新增注释:
+// WriteRune appends the UTF-8 encoding of Unicode code point r to the
+// buffer, returning its length and an error, which is always nil but is
+// included to match [bufio.Writer]'s WriteRune. The buffer is grown as needed;
+// if it becomes too large, WriteRune will panic with [ErrTooLarge].
+
+5月1日 2:27:47 新增注释:
+// Read reads the next len(p) bytes from the buffer or until the buffer
+// is drained. The return value n is the number of bytes read. If the
+// buffer has no data to return, err is io.EOF (unless len(p) is zero);
+// otherwise it is nil.
+
+5月1日 2:27:47 新增注释:
+// Next returns a slice containing the next n bytes from the buffer,
+// advancing the buffer as if the bytes had been returned by [Buffer.Read].
+// If there are fewer than n bytes in the buffer, Next returns the entire buffer.
+// The slice is only valid until the next call to a read or write method.
+
+5月1日 2:27:47 新增注释:
+// ReadByte reads and returns the next byte from the buffer.
+// If no byte is available, it returns error io.EOF.
+
+5月1日 2:27:47 新增注释:
+// ReadRune reads and returns the next UTF-8-encoded
+// Unicode code point from the buffer.
+// If no bytes are available, the error returned is io.EOF.
+// If the bytes are an erroneous UTF-8 encoding, it
+// consumes one byte and returns U+FFFD, 1.
+
+5月1日 2:27:47 新增注释:
+// UnreadRune unreads the last rune returned by [Buffer.ReadRune].
+// If the most recent read or write operation on the buffer was
+// not a successful [Buffer.ReadRune], UnreadRune returns an error.  (In this regard
+// it is stricter than [Buffer.UnreadByte], which will unread the last byte
+// from any read operation.)
+
+5月1日 2:27:47 新增注释:
+// UnreadByte unreads the last byte returned by the most recent successful
+// read operation that read at least one byte. If a write has happened since
+// the last read, if the last read returned an error, or if the read read zero
+// bytes, UnreadByte returns an error.
+
+5月1日 2:27:47 新增注释:
+// ReadBytes reads until the first occurrence of delim in the input,
+// returning a slice containing the data up to and including the delimiter.
+// If ReadBytes encounters an error before finding a delimiter,
+// it returns the data read before the error and the error itself (often io.EOF).
+// ReadBytes returns err != nil if and only if the returned data does not end in
+// delim.
+
+5月1日 2:27:47 新增注释:
+// ReadString reads until the first occurrence of delim in the input,
+// returning a string containing the data up to and including the delimiter.
+// If ReadString encounters an error before finding a delimiter,
+// it returns the data read before the error and the error itself (often io.EOF).
+// ReadString returns err != nil if and only if the returned data does not end
+// in delim.
+
+5月1日 2:27:47 新增注释:
+// NewBuffer creates and initializes a new [Buffer] using buf as its
+// initial contents. The new [Buffer] takes ownership of buf, and the
+// caller should not use buf after this call. NewBuffer is intended to
+// prepare a [Buffer] to read existing data. It can also be used to set
+// the initial size of the internal buffer for writing. To do that,
+// buf should have the desired capacity but a length of zero.
+//
+// In most cases, new([Buffer]) (or just declaring a [Buffer] variable) is
+// sufficient to initialize a [Buffer].
+
+5月1日 2:27:47 新增注释:
+// NewBufferString creates and initializes a new [Buffer] using string s as its
+// initial contents. It is intended to prepare a buffer to read an existing
+// string.
+//
+// In most cases, new([Buffer]) (or just declaring a [Buffer] variable) is
+// sufficient to initialize a [Buffer].
+
+5月1日 2:27:47 新增注释:
+// Copyright 2009 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:27:47 新增注释:
+// make this bigger for a larger (and slower) test
+
+5月1日 2:27:47 新增注释:
+// test data for write tests
+
+5月1日 2:27:47 新增注释:
+// test data; same as testString but as a slice.
+
+5月1日 2:27:47 新增注释:
+// Verify that contents of buf match the string s.
+
+5月1日 2:27:47 新增注释:
+// Fill buf through n writes of string fus.
+// The initial contents of buf corresponds to the string s;
+// the result is the final contents of buf returned as a string.
+
+5月1日 2:27:47 新增注释:
+// Fill buf through n writes of byte slice fub.
+// The initial contents of buf corresponds to the string s;
+// the result is the final contents of buf returned as a string.
+
+5月1日 2:27:47 新增注释:
+// Empty buf through repeated reads into fub.
+// The initial contents of buf corresponds to the string s.
+
+5月1日 2:27:47 新增注释:
+// Make sure that an empty Buffer remains empty when
+// it is "grown" before a Read that panics
+
+5月1日 2:27:48 新增注释:
+// First verify non-panic behaviour
+
+5月1日 2:27:48 新增注释:
+// Confirm that when Reader panics, the empty buffer remains empty
+
+5月1日 2:27:48 新增注释:
+// this is the error string of errNegativeRead
+
+5月1日 2:27:48 新增注释:
+// With a sufficiently sized buffer, there should be no allocations.
+
+5月1日 2:27:48 新增注释:
+// Built a test slice while we write the data
+
+5月1日 2:27:48 新增注释:
+// Check the resulting bytes
+
+5月1日 2:27:48 新增注释:
+// Read it back with ReadRune
+
+5月1日 2:27:48 新增注释:
+// Check that UnreadRune works
+
+5月1日 2:27:48 新增注释:
+	// Invalid runes, including negative ones, should be written as
+	// utf8.RuneError.
+
+5月1日 2:27:48 新增注释:
+				// 0 <= i <= j <= 5; 0 <= k <= 6
+				// Check that if we start with a buffer
+				// of length j at offset i and ask for
+				// Next(k), we get the right bytes.
+
+5月1日 2:27:48 新增注释:
+// If we read, this affects buf.off, which is good to test.
+
+5月1日 2:27:48 新增注释:
+// Check no allocation occurs in write, as long as we're single-threaded.
+
+5月1日 2:27:48 新增注释:
+// Check that buffer has correct data.
+
+5月1日 2:27:48 新增注释:
+// Was a bug: used to give EOF reading empty slice at EOF.
+
+5月1日 2:27:48 新增注释:
+// after unsuccessful read
+
+5月1日 2:27:48 新增注释:
+// Tests that we occasionally compact. Issue 5154.
+
+5月1日 2:27:48 新增注释:
+	// (*Buffer).grow allows for 2x capacity slop before sliding,
+	// so set our error threshold at 3x.
+
+5月1日 2:27:48 新增注释:
+// Check that we don't compact too often. From Issue 5154.
+
+5月1日 2:27:48 新增注释:
+// use max capacity to simulate a large append operation
+
+5月1日 2:27:48 新增注释:
+// should be nearly infinitely fast
+
+5月1日 2:27:48 新增注释:
+// Equal reports whether a and b
+// are the same length and contain the same bytes.
+// A nil argument is equivalent to an empty slice.
+
+5月1日 2:27:48 新增注释:
+// Compare returns an integer comparing two byte slices lexicographically.
+// The result will be 0 if a == b, -1 if a < b, and +1 if a > b.
+// A nil argument is equivalent to an empty slice.
+
+5月1日 2:27:48 新增注释:
+// Count counts the number of non-overlapping instances of sep in s.
+// If sep is an empty slice, Count returns 1 + the number of UTF-8-encoded code points in s.
+
+5月1日 2:27:48 新增注释:
+// Contains reports whether subslice is within b.
+
+5月1日 2:27:48 新增注释:
+// ContainsAny reports whether any of the UTF-8-encoded code points in chars are within b.
+
+5月1日 2:27:48 新增注释:
+// ContainsRune reports whether the rune is contained in the UTF-8-encoded byte slice b.
+
+5月1日 2:27:48 新增注释:
+// ContainsFunc reports whether any of the UTF-8-encoded code points r within b satisfy f(r).
+
+5月1日 2:27:48 新增注释:
+// IndexByte returns the index of the first instance of c in b, or -1 if c is not present in b.
+
+5月1日 2:27:48 新增注释:
+// LastIndex returns the index of the last instance of sep in s, or -1 if sep is not present in s.
+
+5月1日 2:27:48 新增注释:
+// LastIndexByte returns the index of the last instance of c in s, or -1 if c is not present in s.
+
+5月1日 2:27:48 新增注释:
+// IndexRune interprets s as a sequence of UTF-8-encoded code points.
+// It returns the byte index of the first occurrence in s of the given rune.
+// It returns -1 if rune is not present in s.
+// If r is utf8.RuneError, it returns the first instance of any
+// invalid UTF-8 byte sequence.
+
+5月1日 2:27:48 新增注释:
+// IndexAny interprets s as a sequence of UTF-8-encoded Unicode code points.
+// It returns the byte index of the first occurrence in s of any of the Unicode
+// code points in chars. It returns -1 if chars is empty or if there is no code
+// point in common.
+
+5月1日 2:27:48 新增注释:
+// LastIndexAny interprets s as a sequence of UTF-8-encoded Unicode code
+// points. It returns the byte index of the last occurrence in s of any of
+// the Unicode code points in chars. It returns -1 if chars is empty or if
+// there is no code point in common.
+
+5月1日 2:27:48 新增注释:
+// SplitN slices s into subslices separated by sep and returns a slice of
+// the subslices between those separators.
+// If sep is empty, SplitN splits after each UTF-8 sequence.
+// The count determines the number of subslices to return:
+//
+//	n > 0: at most n subslices; the last subslice will be the unsplit remainder.
+//	n == 0: the result is nil (zero subslices)
+//	n < 0: all subslices
+//
+// To split around the first instance of a separator, see Cut.
+
+5月1日 2:27:48 新增注释:
+// SplitAfterN slices s into subslices after each instance of sep and
+// returns a slice of those subslices.
+// If sep is empty, SplitAfterN splits after each UTF-8 sequence.
+// The count determines the number of subslices to return:
+//
+//	n > 0: at most n subslices; the last subslice will be the unsplit remainder.
+//	n == 0: the result is nil (zero subslices)
+//	n < 0: all subslices
+
+5月1日 2:27:48 新增注释:
+// Split slices s into all subslices separated by sep and returns a slice of
+// the subslices between those separators.
+// If sep is empty, Split splits after each UTF-8 sequence.
+// It is equivalent to SplitN with a count of -1.
+//
+// To split around the first instance of a separator, see Cut.
+
+5月1日 2:27:48 新增注释:
+// SplitAfter slices s into all subslices after each instance of sep and
+// returns a slice of those subslices.
+// If sep is empty, SplitAfter splits after each UTF-8 sequence.
+// It is equivalent to SplitAfterN with a count of -1.
+
+5月1日 2:27:48 新增注释:
+// Fields interprets s as a sequence of UTF-8-encoded code points.
+// It splits the slice s around each instance of one or more consecutive white space
+// characters, as defined by unicode.IsSpace, returning a slice of subslices of s or an
+// empty slice if s contains only white space.
+
+5月1日 2:27:48 新增注释:
+// FieldsFunc interprets s as a sequence of UTF-8-encoded code points.
+// It splits the slice s at each run of code points c satisfying f(c) and
+// returns a slice of subslices of s. If all code points in s satisfy f(c), or
+// len(s) == 0, an empty slice is returned.
+//
+// FieldsFunc makes no guarantees about the order in which it calls f(c)
+// and assumes that f always returns the same value for a given c.
+
+5月1日 2:27:48 新增注释:
+// Join concatenates the elements of s to create a new byte slice. The separator
+// sep is placed between elements in the resulting slice.
+
+5月1日 2:27:48 新增注释:
+// HasPrefix reports whether the byte slice s begins with prefix.
+
+5月1日 2:27:48 新增注释:
+// HasSuffix reports whether the byte slice s ends with suffix.
+
+5月1日 2:27:48 新增注释:
+// Map returns a copy of the byte slice s with all its characters modified
+// according to the mapping function. If mapping returns a negative value, the character is
+// dropped from the byte slice with no replacement. The characters in s and the
+// output are interpreted as UTF-8-encoded code points.
+
+5月1日 2:27:48 新增注释:
+// Repeat returns a new byte slice consisting of count copies of b.
+//
+// It panics if count is negative or if the result of (len(b) * count)
+// overflows.
+
+5月1日 2:27:48 新增注释:
+// ToUpper returns a copy of the byte slice s with all Unicode letters mapped to
+// their upper case.
+
+5月1日 2:27:48 新增注释:
+// ToLower returns a copy of the byte slice s with all Unicode letters mapped to
+// their lower case.
+
+5月1日 2:27:48 新增注释:
+// ToTitle treats s as UTF-8-encoded bytes and returns a copy with all the Unicode letters mapped to their title case.
+
+5月1日 2:27:48 新增注释:
+// ToUpperSpecial treats s as UTF-8-encoded bytes and returns a copy with all the Unicode letters mapped to their
+// upper case, giving priority to the special casing rules.
+
+5月1日 2:27:48 新增注释:
+// ToLowerSpecial treats s as UTF-8-encoded bytes and returns a copy with all the Unicode letters mapped to their
+// lower case, giving priority to the special casing rules.
+
+5月1日 2:27:48 新增注释:
+// ToTitleSpecial treats s as UTF-8-encoded bytes and returns a copy with all the Unicode letters mapped to their
+// title case, giving priority to the special casing rules.
+
+5月1日 2:27:48 新增注释:
+// ToValidUTF8 treats s as UTF-8-encoded bytes and returns a copy with each run of bytes
+// representing invalid UTF-8 replaced with the bytes in replacement, which may be empty.
+
+5月1日 2:27:48 新增注释:
+// Title treats s as UTF-8-encoded bytes and returns a copy with all Unicode letters that begin
+// words mapped to their title case.
+//
+// Deprecated: The rule Title uses for word boundaries does not handle Unicode
+// punctuation properly. Use golang.org/x/text/cases instead.
+
+5月1日 2:27:48 新增注释:
+// TrimLeftFunc treats s as UTF-8-encoded bytes and returns a subslice of s by slicing off
+// all leading UTF-8-encoded code points c that satisfy f(c).
+
+5月1日 2:27:48 新增注释:
+// TrimRightFunc returns a subslice of s by slicing off all trailing
+// UTF-8-encoded code points c that satisfy f(c).
+
+5月1日 2:27:48 新增注释:
+// TrimFunc returns a subslice of s by slicing off all leading and trailing
+// UTF-8-encoded code points c that satisfy f(c).
+
+5月1日 2:27:48 新增注释:
+// TrimPrefix returns s without the provided leading prefix string.
+// If s doesn't start with prefix, s is returned unchanged.
+
+5月1日 2:27:48 新增注释:
+// TrimSuffix returns s without the provided trailing suffix string.
+// If s doesn't end with suffix, s is returned unchanged.
+
+5月1日 2:27:48 新增注释:
+// IndexFunc interprets s as a sequence of UTF-8-encoded code points.
+// It returns the byte index in s of the first Unicode
+// code point satisfying f(c), or -1 if none do.
+
+5月1日 2:27:48 新增注释:
+// LastIndexFunc interprets s as a sequence of UTF-8-encoded code points.
+// It returns the byte index in s of the last Unicode
+// code point satisfying f(c), or -1 if none do.
+
+5月1日 2:27:48 新增注释:
+// Trim returns a subslice of s by slicing off all leading and
+// trailing UTF-8-encoded code points contained in cutset.
+
+5月1日 2:27:48 新增注释:
+// TrimLeft returns a subslice of s by slicing off all leading
+// UTF-8-encoded code points contained in cutset.
+
+5月1日 2:27:48 新增注释:
+// TrimRight returns a subslice of s by slicing off all trailing
+// UTF-8-encoded code points that are contained in cutset.
+
+5月1日 2:27:48 新增注释:
+// TrimSpace returns a subslice of s by slicing off all leading and
+// trailing white space, as defined by Unicode.
+
+5月1日 2:27:48 新增注释:
+// Runes interprets s as a sequence of UTF-8-encoded code points.
+// It returns a slice of runes (Unicode code points) equivalent to s.
+
+5月1日 2:27:48 新增注释:
+// Replace returns a copy of the slice s with the first n
+// non-overlapping instances of old replaced by new.
+// If old is empty, it matches at the beginning of the slice
+// and after each UTF-8 sequence, yielding up to k+1 replacements
+// for a k-rune slice.
+// If n < 0, there is no limit on the number of replacements.
+
+5月1日 2:27:48 新增注释:
+// ReplaceAll returns a copy of the slice s with all
+// non-overlapping instances of old replaced by new.
+// If old is empty, it matches at the beginning of the slice
+// and after each UTF-8 sequence, yielding up to k+1 replacements
+// for a k-rune slice.
+
+5月1日 2:27:48 新增注释:
+// EqualFold reports whether s and t, interpreted as UTF-8 strings,
+// are equal under simple Unicode case-folding, which is a more general
+// form of case-insensitivity.
+
+5月1日 2:27:48 新增注释:
+// Index returns the index of the first instance of sep in s, or -1 if sep is not present in s.
+
+5月1日 2:27:48 新增注释:
+// Cut slices s around the first instance of sep,
+// returning the text before and after sep.
+// The found result reports whether sep appears in s.
+// If sep does not appear in s, cut returns s, nil, false.
+//
+// Cut returns slices of the original slice s, not copies.
+
+5月1日 2:27:48 新增注释:
+// Clone returns a copy of b[:len(b)].
+// The result may have additional unused capacity.
+// Clone(nil) returns nil.
+
+5月1日 2:27:48 新增注释:
+// CutPrefix returns s without the provided leading prefix byte slice
+// and reports whether it found the prefix.
+// If s doesn't start with prefix, CutPrefix returns s, false.
+// If prefix is the empty byte slice, CutPrefix returns s, true.
+//
+// CutPrefix returns slices of the original slice s, not copies.
+
+5月1日 2:27:48 新增注释:
+// CutSuffix returns s without the provided ending suffix byte slice
+// and reports whether it found the suffix.
+// If s doesn't end with suffix, CutSuffix returns s, false.
+// If suffix is the empty byte slice, CutSuffix returns s, true.
+//
+// CutSuffix returns slices of the original slice s, not copies.
+
+5月1日 2:27:48 新增注释:
+// Copyright 2009 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:27:48 新增注释:
+// For ease of reading, the test cases use strings that are converted to byte
+// slices before invoking the functions.
+
+5月1日 2:27:48 新增注释:
+// Run the tests and check for allocation at the same time.
+
+5月1日 2:27:48 新增注释:
+// randomish but deterministic data
+
+5月1日 2:27:48 新增注释:
+// make sure Equal returns false for minimally different strings. The data
+// is all zeros except for a single one in one location.
+
+5月1日 2:27:48 新增注释:
+// cases with one byte strings - test IndexByte and special case in Index()
+
+5月1日 2:27:48 新增注释:
+// test fallback to Rabin-Karp.
+
+5月1日 2:27:48 新增注释:
+// Execute f on each test case.  funcName should be the name of f; it's used
+// in failure reports.
+
+5月1日 2:27:48 新增注释:
+// case for function Index.
+
+5月1日 2:27:48 新增注释:
+// case for function LastIndex.
+
+5月1日 2:27:48 新增注释:
+// something in the middle
+
+5月1日 2:27:48 新增注释:
+// test a larger buffer with different sizes and alignments
+
+5月1日 2:27:48 新增注释:
+// different start alignments
+
+5月1日 2:27:48 新增注释:
+// different end alignments
+
+5月1日 2:27:48 新增注释:
+// different start and end alignments
+
+5月1日 2:27:48 新增注释:
+// test a small index across all page offsets
+
+5月1日 2:27:48 新增注释:
+// Make sure we find the correct byte even when straddling a page.
+
+5月1日 2:27:48 新增注释:
+// Make sure matches outside the slice never trigger.
+
+5月1日 2:27:48 新增注释:
+// RuneError should match any invalid UTF-8 byte sequence.
+
+5月1日 2:27:48 新增注释:
+// Invalid rune values should never match.
+
+5月1日 2:27:48 新增注释:
+// test count of a single byte across page offsets
+
+5月1日 2:27:48 新增注释:
+// Make sure we don't count bytes outside our window
+
+5月1日 2:27:48 新增注释:
+// Fill the window with non-match
+
+5月1日 2:27:48 新增注释:
+// Try to find something that doesn't exist
+
+5月1日 2:27:48 新增注释:
+// Appending to the results should not change future results.
+
+5月1日 2:27:48 新增注释:
+// Test case for any function which accepts and returns a byte slice.
+// For ease of creation, we write the input byte slice as a string.
+
+5月1日 2:27:48 新增注释:
+// grows one byte per char
+
+5月1日 2:27:48 新增注释:
+// test utf8.RuneSelf and utf8.MaxRune
+
+5月1日 2:27:48 新增注释:
+// shrinks one byte per char
+
+5月1日 2:27:48 新增注释:
+// User-defined self-inverse mapping function
+
+5月1日 2:27:48 新增注释:
+// Run a couple of awful growth/shrinkage tests
+
+5月1日 2:27:48 新增注释:
+// 1.  Grow. This triggers two reallocations in Map.
+
+5月1日 2:27:48 新增注释:
+// Tests for results over the chunkLimit
+
+5月1日 2:27:48 新增注释:
+// See Issue golang.org/issue/16237
+
+5月1日 2:27:48 新增注释:
+// can only test reassembly if we didn't lose information
+
+5月1日 2:27:48 新增注释:
+	// The nils returned by TrimLeftFunc are odd behavior, but we need
+	// to preserve backwards compatibility.
+
+5月1日 2:27:48 新增注释:
+// last rune in space is 3 bytes
+
+5月1日 2:27:48 新增注释:
+// Input is ~10% space, ~10% 2-byte UTF-8, rest ASCII non-space.
+
+5月1日 2:27:48 新增注释:
+// Input is ~10% space, rest ASCII non-space.
+
+5月1日 2:27:48 新增注释:
+// Copyright 2013 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:27:48 新增注释:
+// vary the input alignment of tt.b
+
+5月1日 2:27:48 新增注释:
+// lengths to test in ascending order
+
+5月1日 2:27:48 新增注释:
+// randomish but deterministic data. No 0 or 255.
+
+5月1日 2:27:48 新增注释:
+// data past the end is different
+
+5月1日 2:27:48 新增注释:
+	// This test compares byte slices that are almost identical, except one
+	// difference that for some j, a[j]>b[j] and a[j+1]<b[j+1]. If the implementation
+	// compares large chunks with wrong endianness, it gets wrong result.
+	// no vector register is larger than 512 bytes for now
+
+5月1日 2:27:48 新增注释:
+// Copyright 2011 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:27:48 新增注释:
+// A Buffer needs no initialization.
+
+5月1日 2:27:48 新增注释:
+// A Buffer can turn a string or a []byte into an io.Reader.
+
+5月1日 2:27:48 新增注释:
+	// Output
+	// 1
+	// bcde
+	// a
+
+5月1日 2:27:48 新增注释:
+	// Output
+	// 97
+	// bcde
+
+5月1日 2:27:48 新增注释:
+// Interpret Compare's result by comparing it to zero.
+
+5月1日 2:27:48 新增注释:
+// Prefer Equal to Compare for equality comparisons.
+
+5月1日 2:27:48 新增注释:
+// Binary search to find a matching byte slice.
+
+5月1日 2:27:48 新增注释:
+// Return haystack[i] >= needle.
+
+5月1日 2:27:48 新增注释:
+// before & after each rune
+
+5月1日 2:27:48 新增注释:
+// Copyright 2009 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:27:48 新增注释:
+// Export func for testing
+
+5月1日 2:27:48 新增注释:
+// A Reader implements the io.Reader, io.ReaderAt, io.WriterTo, io.Seeker,
+// io.ByteScanner, and io.RuneScanner interfaces by reading from
+// a byte slice.
+// Unlike a [Buffer], a Reader is read-only and supports seeking.
+// The zero value for Reader operates like a Reader of an empty slice.
+
+5月1日 2:27:48 新增注释:
+// Len returns the number of bytes of the unread portion of the
+// slice.
+
+5月1日 2:27:48 新增注释:
+// Size returns the original length of the underlying byte slice.
+// Size is the number of bytes available for reading via [Reader.ReadAt].
+// The result is unaffected by any method calls except [Reader.Reset].
+
+5月1日 2:27:48 新增注释:
+// Read implements the [io.Reader] interface.
+
+5月1日 2:27:48 新增注释:
+// ReadAt implements the [io.ReaderAt] interface.
+
+5月1日 2:27:48 新增注释:
+// ReadByte implements the [io.ByteReader] interface.
+
+5月1日 2:27:48 新增注释:
+// UnreadByte complements [Reader.ReadByte] in implementing the [io.ByteScanner] interface.
+
+5月1日 2:27:48 新增注释:
+// ReadRune implements the [io.RuneReader] interface.
+
+5月1日 2:27:48 新增注释:
+// UnreadRune complements [Reader.ReadRune] in implementing the [io.RuneScanner] interface.
+
+5月1日 2:27:48 新增注释:
+// Seek implements the [io.Seeker] interface.
+
+5月1日 2:27:48 新增注释:
+// WriteTo implements the [io.WriterTo] interface.
+
+5月1日 2:27:48 新增注释:
+// Reset resets the [Reader.Reader] to be reading from b.
+
+5月1日 2:27:48 新增注释:
+// NewReader returns a new [Reader.Reader] reading from b.
+
+5月1日 2:27:48 新增注释:
+// Copyright 2012 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:27:48 新增注释:
+	// Test for the race detector, to verify ReadAt doesn't mutate
+	// any state.
+
+5月1日 2:27:48 新增注释:
+	// Test for the race detector, to verify a Read that doesn't yield any bytes
+	// is okay to use from multiple goroutines. This was our historic behavior.
+	// See golang.org/issue/7856
+
+5月1日 2:27:48 新增注释:
+// verify that copying from an empty reader always has the same results,
+// regardless of the presence of a WriteTo method.
+
+5月1日 2:27:48 新增注释:
+// tests that Len is affected by reads, but Size is not.
+
+5月1日 2:27:48 提取注释完毕
+
+5月1日 2:27:52 开始翻译
+
+5月1日 2:27:55 翻译注释:
+// 本文件测试了字节操作检查靠近页面边界数据的情况。
+// 我们要确保这些操作不会读取跨越边界并引发不应有的页面错误。
+// md5:75426777058c008d
+
+5月1日 2:27:57 翻译注释:
+// 这些测试仅在Linux上运行。被测试的代码不依赖特定操作系统，因此不需要在所有操作系统上进行测试。
+// md5:88ba7e84796d0671
+
+5月1日 2:27:58 翻译注释:
+// dangerousSlice 返回一个切片，它立即由一个出错的页面前后跟随。
+// md5:81173505fbc4ca2e
+
+5月1日 2:27:58 翻译注释:
+// 只有在接近页面结束时才关心这个。. md5:b8599e6bc302cde8
+
+5月1日 2:28:0 翻译注释:
+// 差异只在最后一个字节上发现. md5:15407f2f4c5ab9e5
+
+5月1日 2:28:1 翻译注释:
+// 测试在页边界结束时，不同对齐方式和大小的q。. md5:257221af700ea72a
+
+5月1日 2:28:2 翻译注释:
+// Buffer是一个具有[Buffer.Read]和[Buffer.Write]方法的可变大小字节缓冲区。
+// Buffer的零值是一个空缓冲区，已经准备好使用。
+// md5:6eeb6c62d2c690fe
+
+5月1日 2:28:3 翻译注释:
+// 任何其他读取操作。. md5:640135789ce1c247
+
+5月1日 2:28:7 翻译注释:
+// MinRead 是由[Buffer.ReadFrom]传递给Read调用的最小切片大小。只要[Buffer]中至少有MinRead字节超出存储r内容所需的字节数，ReadFrom将不会扩大底层缓冲区的大小。
+// md5:9a6fbe111a4fae8b
+
+5月1日 2:28:8 翻译注释:
+// ErrTooLarge 如果无法分配内存来存储缓冲区中的数据，该错误会被传递给panic。. md5:ac0db4ded02d1d8f
+
+5月1日 2:28:11 翻译注释:
+// Bytes 返回一个长度为 b.Len() 的切片，其中包含缓冲区中未读的部分。
+// 这个切片只在下一次修改缓冲区（即调用诸如 [Buffer.Read]、[Buffer.Write]、[Buffer.Reset] 或 [Buffer.Truncate] 等方法之前）有效。
+// 切片至少会引用缓冲区的内容，直到下一次修改，因此立即对切片进行更改将影响未来读取的结果。
+// md5:1dfdc5bab519f911
+
+5月1日 2:28:13 翻译注释:
+// AvailableBuffer 返回一个容量为 b.Available() 的空缓冲区。
+// 此缓冲区旨在被追加到并传递给下一个立即接续的 [Buffer.Write] 调用。
+// 直到对 b 进行下一次写操作，这个缓冲区才有效。
+// md5:ffac6549b637e07e
+
+5月1日 2:28:17 翻译注释:
+// String 方法返回缓冲区未读部分内容作为字符串。
+// 如果 [Buffer] 是一个空指针，它将返回 "<nil>"。
+//
+// 要更高效地构建字符串，请参见 strings.Builder 类型。
+// md5:1c3184cdbc946e8a
+
+5月1日 2:28:18 翻译注释:
+// Len 返回缓冲区中未读部分的字节数量；
+// b.Len() 等于 len(b.Bytes())。
+// md5:435301354c6501b1
+
+5月1日 2:28:19 翻译注释:
+// Cap返回缓冲区底层字节切片的容量，即分配给缓冲区数据的总空间。
+// md5:7bf4166f47a43520
+
+5月1日 2:28:20 翻译注释:
+// Available 返回缓冲区中未使用的字节数。. md5:fbfc156036bbe683
+
+5月1日 2:28:24 翻译注释:
+// Truncate 方法丢弃缓冲区中除前n个未读取字节以外的所有字节，
+// 但仍然使用相同的已分配存储空间。
+// 如果n是负数或大于缓冲区的长度，它会引发恐慌。
+// md5:98136bb1970ac81b
+
+5月1日 2:28:25 翻译注释:
+// Reset 将缓冲区重置为空，
+// 但保留底层存储，以便将来写入使用。
+// Reset 功能等同于 [Buffer.Truncate](0)。
+// md5:5e5cecee92025b5d
+
+5月1日 2:28:28 翻译注释:
+// Grow 增大缓冲区的容量，如果需要的话，以确保能容纳另外 n 个字节。在调用 Grow(n) 后，至少可以写入 n 个字节到缓冲区而无需再次分配空间。
+// 如果 n 是负数，Grow 将会引发 panic。
+// 如果缓冲区无法增长，它将使用 [ErrTooLarge] 错误引发 panic。
+// md5:48df9b8648f9a546
+
+5月1日 2:28:30 翻译注释:
+// Write 将 p 的内容追加到缓冲区，如果需要会扩大缓冲区。返回值 n 是 p 的长度；err 总是为 nil。如果缓冲区变得过大，Write 会引发一个 [ErrTooLarge] 的 panic。
+// md5:1dde3924b7871834
+
+5月1日 2:28:34 翻译注释:
+// WriteString 将 s 的内容追加到缓冲区中，根据需要扩大缓冲区的大小。返回值 n 是 s 的长度；err 始终为 nil。如果缓冲区变得过大，WriteString 将会因 [ErrTooLarge] 而发生恐慌。
+// md5:90c00c4ec56819db
+
+5月1日 2:28:37 翻译注释:
+// ReadFrom从r读取数据直到EOF，并将数据追加到缓冲区，根据需要增长缓冲区。返回值n是读取的字节数。在读取过程中遇到的任何错误（除了io.EOF）也会被返回。如果缓冲区变得太大，ReadFrom将会因[ErrTooLarge]引发恐慌。
+// md5:eaa622ebea86d082
+
+5月1日 2:28:40 翻译注释:
+// WriteTo 将数据写入到 w，直到缓冲区被耗尽或出现错误。
+// 返回值 n 是已写入的字节数；它始终可以容纳到一个 int 类型，但使用 int64 类型以匹配 io.WriterTo 接口。在写入过程中遇到的任何错误也会一并返回。
+// md5:c7017c8e4e76bc05
+
+5月1日 2:28:42 翻译注释:
+// WriteByte 将字节 c 追加到缓冲区，如果需要会扩大缓冲区。返回的错误始终为 nil，但包含它以匹配 [bufio.Writer] 的 WriteByte 方法。如果缓冲区变得太大，WriteByte 会用 [ErrTooLarge] 引发 panic。
+// md5:3807962fe1acfbac
+
+5月1日 2:28:48 翻译注释:
+// WriteRune 将Unicode代码点r的UTF-8编码附加到缓冲区中，
+// 并返回其长度和一个错误，该错误总是为nil，但为了与[bufio.Writer]的WriteRune方法匹配而包含在内。
+// 缓冲区会根据需要自动扩展；如果缓冲区变得过大，WriteRune将会因[ErrTooLarge]错误而引发恐慌。
+// md5:fcd3a4d673494541
+
+5月1日 2:28:51 翻译注释:
+// Read 从缓冲区中读取接下来的 len(p) 个字节，或者直到缓冲区被读空。返回值 n 是读取的字节数。如果缓冲区没有数据可读，err 将是 io.EOF（除非 len(p) 为零）；否则 err 为 nil。
+// md5:6dec72f7698c2809
+
+5月1日 2:28:53 翻译注释:
+// Next 函数从缓冲区中返回包含接下来 n 个字节的切片，就像 [Buffer.Read] 返回的一样。如果缓冲区中的字节数少于 n，Next 将返回整个缓冲区。这个切片在下一次调用读写方法之前都是有效的。
+// md5:4b6d65f5719e684a
+
+5月1日 2:28:54 翻译注释:
+// ReadByte 从缓冲区读取并返回下一个字节。如果没有可用的字节，它将返回错误 io.EOF。
+// md5:9a65c587bf66dcf3
+
+5月1日 2:28:59 翻译注释:
+// ReadRune 读取并返回缓冲区中的下一个UTF-8编码的Unicode码点。
+// 如果没有可用的字节，返回的错误是io.EOF。
+// 如果字节是错误的UTF-8编码，它将消耗一个字节并返回U+FFFD，1。
+// md5:e6188dfcfac12306
+
+5月1日 2:29:2 翻译注释:
+// UnreadRune 回退由 Buffer.ReadRune 返回的最后一个字符。
+// 如果对缓冲区的最近一次读写操作不是成功的 ReadRune，UnreadRune 将返回一个错误。
+// 在这方面，它比 Buffer.UnreadByte 更严格，因为 Buffer.UnreadByte 可以回退任何读取操作的最后一个字节。
+// md5:239e0a258391add0
+
+5月1日 2:29:4 翻译注释:
+// UnreadByte 将最近一次成功读取（至少读取了一个字节）后返回的最后一个字节 unread。如果在上次读取之后有写操作发生，或者上次读取返回了错误，或者读取了0个字节，UnreadByte 将返回一个错误。
+// md5:ebefc8dc07168356
+
+5月1日 2:29:6 翻译注释:
+// ReadBytes 读取到输入中的第一个分隔符，返回包含到和包括分隔符的数据切片。如果在找到分隔符之前遇到错误，它将返回错误发生前已读取的数据以及错误（通常是 io.EOF）。只有当返回的数据不以分隔符结束时，ReadBytes 才会返回 err != nil。
+// md5:4d18e9ed50415556
+
+5月1日 2:29:13 翻译注释:
+// ReadString 读取输入直到遇到第一个 delim 字符为止，
+// 并返回一个字符串，其中包含直到分隔符（包括分隔符本身）的所有数据。
+// 如果 ReadString 在找到分隔符之前遇到错误，
+// 它会返回遇到错误之前读取的数据以及该错误本身（常为 io.EOF）。
+// ReadString 在且仅在返回的数据没有以 delim 结尾时，返回 err != nil。
+// md5:2dbe6334091e50c0
+
+5月1日 2:29:17 翻译注释:
+// NewBuffer 使用 buf 作为初始内容创建并初始化一个新的 [Buffer]。新的 [Buffer] 将接管 buf，调用者在调用后不应再使用 buf。NewBuffer 的目的是准备一个 [Buffer] 来读取已有数据。它也可以用来设置内部缓冲区的初始写入大小。为此，buf 应具有所需的容量，但长度应为零。
+//
+// 在大多数情况下，new([Buffer])（或者直接声明一个 [Buffer] 变量）就足以初始化一个 [Buffer]。
+// md5:160089e06b42c9d0
+
+5月1日 2:29:19 翻译注释:
+// NewBufferString 通过字符串 s 创建并初始化一个新的 [Buffer]。它的目的是准备一个缓冲区来读取已存在的字符串。
+// 
+// 在大多数情况下，使用 new([Buffer])（或者只是声明一个 [Buffer] 变量）就足以初始化一个 [Buffer]。
+// md5:52db730cdb1471dd
+
+5月1日 2:29:19 命中翻译缓存:
+// NewBufferString 通过字符串 s 创建并初始化一个新的 [Buffer]。它的目的是准备一个缓冲区来读取已存在的字符串。
+// 
+// 在大多数情况下，使用 new([Buffer])（或者只是声明一个 [Buffer] 变量）就足以初始化一个 [Buffer]。
+// md5:52db730cdb1471dd
+
+5月1日 2:29:19 翻译注释:
+//版权所有2009年Go作者。所有权利保留。
+//使用此源代码受BSD风格
+//可以在LICENSE文件中找到的许可证。
+// md5:2e9dc81828a3be8a
+
+5月1日 2:29:20 翻译注释:
+// 将其增大以便进行更大（但更慢）的测试. md5:bf0c2bf33a8d9434
+
+5月1日 2:29:21 翻译注释:
+// 写入测试的测试数据. md5:fb12fba62e7a297f
+
+5月1日 2:29:23 翻译注释:
+// 测试数据；与testString相同，但以切片形式表示。. md5:84211fa4bf8f2e04
+
+5月1日 2:29:24 翻译注释:
+// 验证buf中的内容与字符串s匹配。. md5:126cb1dbac61397b
+
+5月1日 2:29:25 翻译注释:
+// 通过将字符串fus写入n次来填充buf。buf的初始内容对应于字符串s；返回的结果是buf的最终内容，以字符串形式返回。
+// md5:4a2535b01b6cdaaa
+
+5月1日 2:29:28 翻译注释:
+// 通过n次写入字节片fub来填充buf。
+// buf的初始内容对应于字符串s；
+// 结果是以字符串形式返回buf的最终内容。
+// md5:ffa83d80493fdd8d
+
+5月1日 2:29:29 翻译注释:
+// 通过反复读取到fub中清空buf。
+// buf的初始内容对应于字符串s。
+// md5:930d750514b1c416
+
+5月1日 2:29:30 翻译注释:
+// 确保在发生恐慌的读取之前，一个空的Buffer在增长（"grown"）后仍然保持为空。
+// md5:0e205b51231f8eb6
+
+5月1日 2:29:31 翻译注释:
+// 首先验证非 panic 行为. md5:d0442d9c9eefa946
+
+5月1日 2:29:33 翻译注释:
+// 确认当Reader发生恐慌时，空缓冲区仍然保持为空. md5:1e5afdd5554f8adb
+
+5月1日 2:29:33 翻译注释:
+// 这是errNegativeRead错误的字符串表示. md5:1f249ec61c28b754
+
+5月1日 2:29:34 翻译注释:
+// 如果缓冲区足够大，就无需分配内存。. md5:91e6a0658a4d1773
+
+5月1日 2:29:35 翻译注释:
+// 在写入数据的同时，构建测试切片. md5:297726db76b7b32f
+
+5月1日 2:29:36 翻译注释:
+// 检查生成的字节. md5:d96610169d4659e0
+
+5月1日 2:29:36 翻译注释:
+// 通过ReadRune读取回来. md5:7eff8ed0af3ba587
+
+5月1日 2:29:37 翻译注释:
+// 检查UnreadRune是否正常工作. md5:4bee260d2e0cfec6
+
+5月1日 2:29:37 命中翻译缓存:
+// 检查UnreadRune是否正常工作. md5:4bee260d2e0cfec6
+
+5月1日 2:29:37 翻译注释:
+// 无效的 runes，包括负值，应写为 utf8.RuneError。
+// md5:681b779ca55ae8d0
+
+5月1日 2:29:39 翻译注释:
+// 0 <= i <= j <= 5; 0 <= k <= 6
+// 检查如果我们从偏移量i处的长度为j的缓冲区开始，并请求Next(k)，我们得到正确的字节。
+// md5:e2c406f6e1abd245
+
+5月1日 2:29:42 翻译注释:
+// 如果我们进行读取操作，这会影响到buf.off的值，这是需要测试的一个重点。. md5:de673857faeb3086
+
+5月1日 2:29:42 翻译注释:
+// 检查在单线程情况下，write操作中没有发生内存分配。. md5:345a0c0930748e59
+
+5月1日 2:29:43 翻译注释:
+// 检查缓冲区是否有正确的数据。. md5:7fafa1ff34cff099
+
+5月1日 2:29:44 翻译注释:
+// 这是一个bug：在读取空切片时，它以前会返回EOF错误。. md5:b7f29e023c3d64c0
+
+5月1日 2:29:45 翻译注释:
+// 在读取失败后. md5:0ffe0e6d68de7072
+
+5月1日 2:29:46 翻译注释:
+// 测试我们偶尔进行的压缩。问题5154。. md5:4ab768dd436e6b2d
+
+5月1日 2:29:47 翻译注释:
+//（*Buffer）.grow允许在滑动之前有2倍容量的冗余，所以我们将错误阈值设置为3倍。
+// md5:15593711c654c6c2
+
+5月1日 2:29:48 翻译注释:
+// 检查我们不要过于频繁地进行紧凑。参考问题5154。. md5:094d39788b27155d
+
+5月1日 2:29:49 翻译注释:
+// 使用最大容量来模拟一个大的追加操作. md5:40dfb5f3c522b160
+
+5月1日 2:29:50 翻译注释:
+// 应该几乎是无限快速的. md5:1fd3483bfdabd715
+
+5月1日 2:29:51 翻译注释:
+// Equal 判断 a 和 b 是否具有相同的长度并且包含相同的字节。一个空指针（nil）等同于一个空切片（empty slice）。
+// md5:dbece9ef3f693465
+
+5月1日 2:29:53 翻译注释:
+// Compare 函数按字典顺序比较两个字节切片。如果 a == b，返回 0；如果 a < b，返回 -1；如果 a > b，返回 +1。
+// 空指针（nil）等同于空切片。
+// md5:23a14b305b5a0036
+
+5月1日 2:29:57 翻译注释:
+// Count 计算字符串 s 中非重叠实例 sep 的数量。
+// 如果 sep 是一个空切片，Count 返回 1 加上 s 中 UTF-8 编码的代码点数量。
+// md5:5d59a1b45cedfba7
+
+5月1日 2:29:58 翻译注释:
+// Contains 函数报告子切片是否在 b 中。. md5:3075713b6bb2e961
+
+5月1日 2:29:59 翻译注释:
+// ContainsAny报告chars中的任何UTF-8编码的代码点是否都在b中。. md5:a7123747027d0a57
+
+5月1日 2:30:0 翻译注释:
+// ContainsRune 检查 rune 是否存在于 UTF-8 编码的字节切片 b 中。. md5:22a878ae15a5922f
+
+5月1日 2:30:2 翻译注释:
+// ContainsFunc 报告UTF-8编码的码点r在b中是否存在，满足条件f(r)。. md5:e58efa31a9ff987a
+
+5月1日 2:30:3 翻译注释:
+// IndexByte 返回字节切片b中字符c的第一个出现位置，如果c不在b中，则返回-1。. md5:7bf26378aad4cd0b
+
+5月1日 2:30:4 翻译注释:
+// LastIndex 返回 s 中 sep 的最后一个实例的索引，如果 s 中不存在 sep，则返回 -1。. md5:6bd49252012e79ad
+
+5月1日 2:30:5 翻译注释:
+// LastIndexByte 返回字符串s中字符c的最后一个出现位置的索引，如果c不在s中，则返回-1。. md5:8a4f0f6af8efe072
+
+5月1日 2:30:11 翻译注释:
+// IndexRune 将 s 解释为一系列 UTF-8 编码的代码点。
+// 它返回给定字符在 s 中首次出现的字节索引。
+// 如果字符在 s 中不存在，则返回 -1。
+// 如果 r 是 utf8.RuneError，它将返回任何无效 UTF-8 字节序列的第一个实例。
+// md5:6dc9763770576138
+
+5月1日 2:30:13 翻译注释:
+// IndexAny将s视为一个用UTF-8编码的Unicode码点序列。
+// 它返回s中第一个出现的、在chars中任一Unicode码点的字节索引。如果chars为空或者没有共同的码点，它返回-1。
+// md5:03920b48034c033b
+
+5月1日 2:30:15 翻译注释:
+// LastIndexAny将s解释为UTF-8编码的Unicode代码点序列。它返回s中与chars中的任何Unicode代码点的最后一个出现的字节索引。如果chars为空或没有公共代码点，它将返回-1。
+// md5:7c8b4adaf5973148
+
+5月1日 2:30:19 翻译注释:
+// SplitN 将字符串 s 按照分隔符 sep 进行切片，并返回这些分隔符之间的子切片的切片。
+// 如果 sep 为空，SplitN 将在每个 UTF-8 序列后进行切分。
+// count 决定返回的子切片数量：
+// 
+//	> 0：最多返回 n 个子切片；最后一个子切片将是未被分割的部分。
+//	n == 0：结果为 nil（没有子切片）
+//	n < 0：返回所有子切片
+// 
+// 要在第一个分隔符周围进行切分，请参阅 Cut 函数。
+// md5:0be3f8772a05e662
+
+5月1日 2:30:29 翻译注释:
+// SplitAfterN 将字符串 s 根据 sep 的每个实例进行切分，之后返回这些子切片的切片。
+// 如果 sep 为空，SplitAfterN 会根据每个 UTF-8 序列进行切分。
+// count 参数决定了要返回的子切片数量：
+//
+//	n > 0: 最多 n 个子切片；最后一个子切片将是未被切分的剩余部分。
+//	n == 0: 结果为 nil（零个子切片）
+//	n < 0: 所有子切片
+// md5:93042132420aa229
+
+5月1日 2:30:32 翻译注释:
+// Split 将切片 s 按照分隔符 sep 切分成多个子切片，并返回一个包含这些子切片的切片。
+// 如果 sep 为空，Split 将在每个 UTF-8 字符序列后进行分割。
+// 它等价于 SplitN 函数，传入的计数参数为 -1。
+//
+// 若要围绕第一个分隔符进行分割，可以使用 Cut 函数。
+// md5:d5d8f14cae52de3f
+
+5月1日 2:30:34 翻译注释:
+// SplitAfter 在每个sep实例之后将s分割成所有子切片，并返回这些子切片的切片。
+// 如果sep为空，SplitAfter会在每个UTF-8序列后进行分割。
+// 它等同于SplitAfterN，其中计数为-1。
+// md5:c78b01ae43df412f
+
+5月1日 2:30:36 翻译注释:
+// Fields 将 s 解析为一系列 UTF-8 编码的代码点。
+// 它会在 s 中每个连续或非连续的空白字符（由 unicode.IsSpace 定义）周围分割，返回 s 的子切片的切片，如果 s 只包含空白字符，则返回空切片。
+// md5:7c06fb47034bd649
+
+5月1日 2:30:47 翻译注释:
+// FieldsFunc 将 s 解释为一系列 UTF-8 编码的代码点。
+// 它会在满足条件 f(c) 的每个代码点序列处将切片 s 分割，
+// 并返回 s 的子切片切片。如果 s 中的所有代码点都满足 f(c)，或者
+// len(s) == 0，则返回一个空切片。
+//
+// FieldsFunc 不保证以特定顺序调用 f(c)，
+// 并假设对于给定的 c，f 总是返回相同的结果值。
+// md5:e0df308c2de6e89c
+
+5月1日 2:30:48 翻译注释:
+// Join 将 s 中的元素连接起来创建一个新的字节切片。分隔符 sep 会被插入到结果切片中的元素之间。
+// md5:c65602b4a3a28272
+
+5月1日 2:30:49 翻译注释:
+// HasPrefix 函数报告切片 s 是否以 prefix 开头。. md5:aeb71c9e082f4e79
+
+5月1日 2:30:50 翻译注释:
+// HasSuffix 函数报告 byte slice s 是否以 suffix 结尾。. md5:42621549774f0616
+
+5月1日 2:30:55 翻译注释:
+// Map 函数返回一个副本，该副本中的字节切片 s 的所有字符都根据映射函数进行了修改。
+// 如果映射函数返回一个负值，则该字符将从字节切片中移除且不做替换。
+// 字节切片 s 中的字符以及输出结果都按 UTF-8 编码的码点进行解释。
+// md5:f29d9994e9e93cbe
+
+5月1日 2:30:57 翻译注释:
+// Repeat 返回一个新的字节切片，由 count 个 b 的副本组成。
+//
+// 如果 count 为负数，或者 (len(b) * count) 的结果溢出，则该函数会 panic。
+// md5:a30126d911ce9e3a
+
+5月1日 2:30:58 翻译注释:
+// ToUpper返回一个副本，其中s中的所有Unicode字母映射到大写。
+// md5:701556ffdae09171
+
+5月1日 2:30:59 翻译注释:
+// ToLower返回一个副本，其中s中的所有Unicode字母映射到小写。
+// md5:96198f3611614a06
+
+5月1日 2:31:1 翻译注释:
+// ToTitle将s视为UTF-8编码的字节，并返回一个副本，其中所有Unicode字母都被映射为它们的标题大小写形式。. md5:3a15836e7e4e4976
+
+5月1日 2:31:3 翻译注释:
+// ToUpperSpecial将s视为UTF-8编码的字节，并返回一个副本，其中所有Unicode字母都映射为其大写形式，优先考虑特殊大小写规则。
+// md5:7a8fc8bbf32666bf
+
+5月1日 2:31:5 翻译注释:
+// ToLowerSpecial将s视为UTF-8编码的字节，并返回一个副本，其中所有Unicode字母都被映射到小写，优先考虑特殊情况规则。
+// md5:1c197945b5358611
+
+5月1日 2:31:6 翻译注释:
+// ToTitleSpecial 将 s 视为 UTF-8 编码的字节，并返回一个副本，其中所有 Unicode 字母都被映射为其大写形式，优先遵循特殊的大写规则。
+// md5:05fe1b145cbd5bda
+
+5月1日 2:31:10 翻译注释:
+// ToValidUTF8 将s视为UTF-8编码的字节序列，并返回一个副本，其中每个代表无效UTF-8的字节序列都被replacement中的字节替换，replacement可以是空字符串。
+// md5:a8577838395945fd
+
+5月1日 2:31:12 翻译注释:
+// Title 将 s 视为 UTF-8 编码的字节，并返回一个副本，其中所有单词起始的Unicode字母都被转换为标题大小写。
+//
+// 已废弃：Title 使用的单词边界规则无法正确处理Unicode标点符号。请改用 golang.org/x/text/cases。
+// md5:489de93c97e62d72
+
+5月1日 2:31:14 翻译注释:
+// TrimLeftFunc将s视为UTF-8编码的字节，并通过移除所有满足条件f(c)的UTF-8编码的代码点c，返回s的子切片。
+// md5:21e9929d142ec743
+
+5月1日 2:31:15 翻译注释:
+// TrimRightFunc通过移除所有满足条件f(c)的UTF-8编码的码点c，返回s的子切片。
+// md5:3016ff9a3bf64754
+
+5月1日 2:31:18 翻译注释:
+// TrimFunc 返回s的子切片，通过去除所有满足f(c)的前导和尾随UTF-8编码的字符c。
+// md5:a1e6af674d552e9a
+
+5月1日 2:31:20 翻译注释:
+// TrimPrefix 函数返回字符串 s 去除指定前缀后的结果。
+// 如果 s 不以 prefix 开头，那么将原样返回 s。
+// md5:97cb4f309ba2947f
+
+5月1日 2:31:21 翻译注释:
+// TrimSuffix 函数返回 s，但不包含提供的尾随后缀字符串。
+// 如果 s 不以 suffix 结尾，则返回原始的 s。
+// md5:6d9d00533816bde2
+
+5月1日 2:31:23 翻译注释:
+// IndexFunc 将 s 解释为一系列 UTF-8 编码的代码点。
+// 它返回满足函数 f(c) 的第一个 Unicode 代码点在 s 中的字节索引，如果没有满足条件的，则返回 -1。
+// md5:3faa26ff439023a4
+
+5月1日 2:31:27 翻译注释:
+// LastIndexFunc 将 s 解释为一系列 UTF-8 编码的代码点。
+// 它返回 s 中满足 f(c) 的最后一个 Unicode 代码点的字节索引，
+// 如果没有满足条件的，则返回 -1。
+// md5:d29cc3d1192d35e5
+
+5月1日 2:31:29 翻译注释:
+// Trim返回一个s的子切片，切掉cutset中包含的所有领先和尾随的UTF-8编码的字符。
+// md5:c8162b6bb6472995
+
+5月1日 2:31:30 翻译注释:
+// TrimLeft通过移除s中所有UTF-8编码的代码点开始部分，返回一个子切片。
+// md5:0908d5b6be56ad64
+
+5月1日 2:31:31 翻译注释:
+// TrimRight 通过裁剪掉所有由 cutset 所包含的 UTF-8 编码字符点，返回 s 的子切片。
+// md5:f6b6ebb338bed118
+
+5月1日 2:31:34 翻译注释:
+// TrimSpace 返回 s 的子切片，通过去除所有前导和尾随的空白字符，这些空白字符根据 Unicode 定义。
+// md5:bd70164451a18ab6
+
+5月1日 2:31:35 翻译注释:
+// Runes 将 s 解释为一个使用UTF-8编码的字符序列。
+// 它返回一个等价于 s 的 rune（Unicode 字符码点）切片。
+// md5:10939a65a6e24e32
+
+5月1日 2:31:38 翻译注释:
+// Replace 函数返回一个切片 s 的副本，其中旧值 old 的第一个非重叠实例被新值 new 替换。如果 old 为空，它会在切片的开头和每个 UTF-8 序列之后匹配，最多替换 k+1 次，对于长度为 k 的切片。
+// 如果 n 小于 0，替换次数没有限制。
+// md5:f7ca90ba486844bf
+
+5月1日 2:31:40 翻译注释:
+// ReplaceAll 返回一个副本，其中s中的所有非重叠的old被new替换。
+// 如果old为空，它将在切片的开头和每个UTF-8序列后匹配，对于一个长度为k的切片，最多可以进行k+1次替换。
+// md5:458b06a900a614cb
+
+5月1日 2:31:43 翻译注释:
+// EqualFold 判断作为 UTF-8 字符串的 s 和 t，在执行简单的 Unicode 大小写折叠后是否相等。这是一种更普遍的大小写不敏感比较方式。
+// md5:bf180308fee8f0a4
+
+5月1日 2:31:44 翻译注释:
+// Index 返回字符串 s 中 sep 的第一个实例的索引，如果 sep 不在 s 中，则返回 -1。. md5:b9f2aeee6a0f3c43
+
+5月1日 2:31:46 翻译注释:
+// 在s中第一个出现sep的位置周围切割，返回sep前后的文本。
+// 找到的结果报告sep是否出现在s中。如果sep不在s中，cut将返回s、nil和false。
+// 
+// cut返回的是原始切片s的切片，而不是副本。
+// md5:d93766c814c08f4c
+
+5月1日 2:31:48 翻译注释:
+// Clone 返回 b[:len(b)] 的副本。
+// 结果可能具有额外的未使用容量。
+// Clone(nil) 返回 nil。
+// md5:104eb96c6cfc5cc9
+
+5月1日 2:31:53 翻译注释:
+// CutPrefix 函数返回一个字符串 s，去除了给定的前缀字节切片，并报告是否找到了该前缀。
+// 如果 s 不以 prefix 开头，则返回 s, false。
+// 如果 prefix 是一个空字节切片，则返回 s, true。
+//
+// CutPrefix 返回的是原切片 s 的子切片，而不是副本。
+// md5:03cd59cf1b324d12
+
+5月1日 2:31:56 翻译注释:
+// CutSuffix 函数返回 s 去除给定的结束后缀字节切片后的结果，并报告是否找到了该后缀。
+// 如果 s 不以 suffix 结束，CutSuffix 返回 s，false。
+// 如果 suffix 是空的字节切片，CutSuffix 返回 s，true。
+//
+// CutSuffix 返回原始切片 s 的切片，而不是复制的新切片。
+// md5:f882290c414b24fa
+
+5月1日 2:31:56 命中翻译缓存:
+// CutSuffix 函数返回 s 去除给定的结束后缀字节切片后的结果，并报告是否找到了该后缀。
+// 如果 s 不以 suffix 结束，CutSuffix 返回 s，false。
+// 如果 suffix 是空的字节切片，CutSuffix 返回 s，true。
+//
+// CutSuffix 返回原始切片 s 的切片，而不是复制的新切片。
+// md5:f882290c414b24fa
+
+5月1日 2:31:56 翻译注释:
+//版权所有2009年Go作者。所有权利保留。
+//使用此源代码受BSD风格
+//可以在LICENSE文件中找到的许可证。
+// md5:2e9dc81828a3be8a
+
+5月1日 2:31:57 翻译注释:
+// 为了便于阅读，测试用例使用在调用函数之前转换为字节切片的字符串。
+// md5:cc0119a5cedee1b2
+
+5月1日 2:31:58 翻译注释:
+// 同时运行测试并检查内存分配情况。. md5:7eeb37e33320936f
+
+5月1日 2:31:58 翻译注释:
+// 随机但确定的数据. md5:74d5619b89612fd4
+
+5月1日 2:32:0 翻译注释:
+// 确保Equal函数对于稍微不同的字符串返回false。数据全部为零，
+// 除了在某个位置有一个一。
+// md5:e67bbd551b9ae3b6
+
+5月1日 2:32:0 翻译注释:
+// 一个字节字符串的案例 - 测试IndexByte和Index()的特殊情况. md5:f42df8c179943cdc
+
+5月1日 2:32:1 翻译注释:
+// 测试使用Rabin-Karp算法的备份。. md5:44782e3f078ab24b
+
+5月1日 2:32:3 翻译注释:
+// 对每个测试用例执行f。funcName应该是f的名称；它在失败报告中使用。
+// md5:c1927b781dfa03e1
+
+5月1日 2:32:4 翻译注释:
+// 用于函数 Index 的情况。. md5:3908461a593ff220
+
+5月1日 2:32:4 翻译注释:
+// 对LastIndex函数的案例。. md5:110e5bc369debd5a
+
+5月1日 2:32:5 翻译注释:
+// 中间的一些东西. md5:33e6ce4fb316248e
+
+5月1日 2:32:6 翻译注释:
+// 测试具有不同大小和对齐方式的较大缓冲区. md5:bdd23843bfb9fd53
+
+5月1日 2:32:7 翻译注释:
+// 不同的起始对齐方式. md5:3c1d2601274622bb
+
+5月1日 2:32:8 翻译注释:
+// 不同的结束对齐方式. md5:03ebb91baeab54f1
+
+5月1日 2:32:8 翻译注释:
+// 不同的开始和结束对齐方式. md5:9c3f4acdc0b00b1c
+
+5月1日 2:32:10 翻译注释:
+// 测试小索引在所有页面偏移上的情况. md5:b0600eaff691216a
+
+5月1日 2:32:10 翻译注释:
+// 确保我们即使在跨越页面的情况下也能找到正确的字节。. md5:91c3ac76aa5ffb4b
+
+5月1日 2:32:11 翻译注释:
+// 确保切片外部的匹配项永远不会触发。. md5:77a9d5f02b1924b6
+
+5月1日 2:32:12 翻译注释:
+// RuneError应该匹配任何无效的UTF-8字节序列。. md5:435d81d1f5f4f637
+
+5月1日 2:32:13 翻译注释:
+// 无效的字符值应当永不匹配。. md5:e2994b05bbd0f2e8
+
+5月1日 2:32:14 翻译注释:
+// 测试单个字节在页面偏移量上的计数. md5:e62bbb3f055c41a3
+
+5月1日 2:32:15 翻译注释:
+// 确保我们不会计算窗口之外的字节. md5:eb48fa1ed06414ad
+
+5月1日 2:32:15 翻译注释:
+// 用非匹配填充窗口. md5:ee183c337a4b466f
+
+5月1日 2:32:16 翻译注释:
+// 尝试查找不存在的项. md5:8e7643a6e64b7d13
+
+5月1日 2:32:17 翻译注释:
+// 向结果中追加内容不应该改变未来的结果。. md5:96afbc6aa8af6e48
+
+5月1日 2:32:18 翻译注释:
+// 用于测试任何接受并返回字节切片的函数。为了方便创建，我们将输入字节切片写为字符串。
+// md5:0a5359f1b96a57fc
+
+5月1日 2:32:19 翻译注释:
+// 每个字符增长1字节. md5:41ef86d4dc86aeae
+
+5月1日 2:32:20 翻译注释:
+// 测试 utf8.RuneSelf 和 utf8.MaxRune. md5:9be232d2f4ce5636
+
+5月1日 2:32:21 翻译注释:
+// 每个字符缩小一个字节. md5:61f8c9702d4cc969
+
+5月1日 2:32:21 翻译注释:
+// 用户自定义的自逆映射函数. md5:3f01f9afc8855318
+
+5月1日 2:32:22 翻译注释:
+// 运行一些糟糕的生长/收缩测试. md5:92178dba5f26024e
+
+5月1日 2:32:24 翻译注释:
+// 1. 扩容。这将触发映射(Map)中的两次重新分配。. md5:2251939b1fa5eb1b
+
+5月1日 2:32:24 翻译注释:
+// 对超过chunkLimit限制的结果进行测试. md5:f1cb95f92cb7c08d
+
+5月1日 2:32:25 翻译注释:
+// 请参阅问题 golang.org/issue/16237. md5:cb3e34cc0fbca988
+
+5月1日 2:32:26 翻译注释:
+// 只有当我们没有丢失信息时，才能测试重装. md5:2c1bd20acd2e952a
+
+5月1日 2:32:28 翻译注释:
+// TrimLeftFunc 返回的nils表现出奇特的行为，但我们需要保持向后兼容性。
+// md5:b1a69a537dcc0f5f
+
+5月1日 2:32:29 翻译注释:
+// space中的最后一个字符是3个字节. md5:750aad870675d5f5
+
+5月1日 2:32:30 翻译注释:
+// 输入大约是10%的空格，约10%的2字节UTF-8编码，其余是ASCII非空格字符。. md5:d6a20654cb2dd72f
+
+5月1日 2:32:31 翻译注释:
+// 输入大约是10%的空格，其余是ASCII非空格字符。. md5:2595a4bcaddb9459
+
+5月1日 2:32:31 命中翻译缓存:
+// 输入大约是10%的空格，其余是ASCII非空格字符。. md5:2595a4bcaddb9459
+
+5月1日 2:32:31 翻译注释:
+// 版权所有 2013 Go 作者。保留所有权利。
+// 使用此源代码受BSD风格许可证约束，该许可证可从LICENSE文件中找到。
+// md5:19d1a3ed91182ee4
+
+5月1日 2:32:33 翻译注释:
+// 改变输入对齐方式为 tt.b. md5:ce1433df219092cd
+
+5月1日 2:32:33 命中翻译缓存:
+// 改变输入对齐方式为 tt.b. md5:ce1433df219092cd
+
+5月1日 2:32:33 翻译注释:
+// 以递增顺序进行测试的长度. md5:d422e60df7501431
+
+5月1日 2:32:33 命中翻译缓存:
+// 以递增顺序进行测试的长度. md5:d422e60df7501431
+
+5月1日 2:32:33 翻译注释:
+// 随机但确定的数据。不包含0或255。. md5:60ed4a09009d8428
+
+5月1日 2:32:33 命中翻译缓存:
+// 随机但确定的数据。不包含0或255。. md5:60ed4a09009d8428
+
+5月1日 2:32:33 翻译注释:
+// 数据末尾之后的内容是不同的. md5:8d87dd9025a7c19f
+
+5月1日 2:32:36 翻译注释:
+// 该测试比较两个几乎相同的字节切片，唯一的区别在于某个索引j处，a[j]大于b[j]并且a[j+1]小于b[j+1]。
+// 如果实现方式错误地以错误的字节序比较了大块数据，它将得到错误的结果。
+// 目前没有任何向量寄存器大于512字节。
+// md5:4bc7ed687468d65e
+
+5月1日 2:32:36 命中翻译缓存:
+// 该测试比较两个几乎相同的字节切片，唯一的区别在于某个索引j处，a[j]大于b[j]并且a[j+1]小于b[j+1]。
+// 如果实现方式错误地以错误的字节序比较了大块数据，它将得到错误的结果。
+// 目前没有任何向量寄存器大于512字节。
+// md5:4bc7ed687468d65e
+
+5月1日 2:32:36 翻译注释:
+// 版权所有 2011 Go 语言作者。保留所有权利。
+// 使用此源代码须遵循 BSD 风格的许可协议，
+// 许可协议具体内容可在 LICENSE 文件中找到。
+// md5:b5bcbe8a534f6077
+
+5月1日 2:32:36 翻译注释:
+// Buffer不需要初始化。. md5:43cda2387f7d4bae
+
+5月1日 2:32:37 翻译注释:
+// Buffer 可以将字符串或[]byte转换为io.Reader。. md5:ad50aecec482d193
+
+5月1日 2:32:38 翻译注释:
+// 输出
+// 1
+// bcde
+// a
+// md5:3addf3a89c90d1db
+
+5月1日 2:32:39 翻译注释:
+// 输出
+// 97
+// bcde
+// md5:9002ad245fde30ec
+
+5月1日 2:32:40 翻译注释:
+// 通过将Compare的结果与零进行比较来解释Compare的结果。. md5:f0554f1e1117f2ca
+
+5月1日 2:32:41 翻译注释:
+// 在进行相等性比较时，优先使用 Equal。. md5:25f6ced65d76ea06
+
+5月1日 2:32:42 翻译注释:
+// 使用二分查找法来找到匹配的字节切片。. md5:cbd3a7ce62b18abe
+
+5月1日 2:32:43 翻译注释:
+// 返回haystack[i]大于或等于needle。. md5:fd9f23d041cddbf6
+
+5月1日 2:32:43 命中翻译缓存:
+// 返回haystack[i]大于或等于needle。. md5:fd9f23d041cddbf6
+
+5月1日 2:32:43 翻译注释:
+// 每个 runes 之前和之后. md5:2884466072b427de
+
+5月1日 2:32:43 命中翻译缓存:
+// 每个 runes 之前和之后. md5:2884466072b427de
+
+5月1日 2:32:43 翻译注释:
+//版权所有2009年Go作者。所有权利保留。
+//使用此源代码受BSD风格
+//可以在LICENSE文件中找到的许可证。
+// md5:2e9dc81828a3be8a
+
+5月1日 2:32:43 翻译注释:
+// 用于测试的导出函数. md5:ac5f85a70f5e48e7
+
+5月1日 2:32:46 翻译注释:
+// Reader实现了io.Reader、io.ReaderAt、io.WriterTo、io.Seeker、io.ByteScanner和io.RuneScanner接口，通过从字节切片中读取数据。
+// 与[Buffer]不同，Reader是只读的，并且支持定位（seeking）操作。
+// Reader的零值行为就像一个空切片的Reader。
+// md5:c7615bfef4c8b2fe
+
+5月1日 2:32:47 翻译注释:
+// Len 返回切片未读部分的字节长度。
+// md5:60d512b53434757a
+
+5月1日 2:32:49 翻译注释:
+// Size 返回原始字节切片的长度。
+// Size 是通过 [Reader.ReadAt] 可读取的字节数量。
+// 结果不受除 [Reader.Reset] 之外的任何方法调用影响。
+// md5:7057c00761109102
+
+5月1日 2:32:49 命中翻译缓存:
+// Size 返回原始字节切片的长度。
+// Size 是通过 [Reader.ReadAt] 可读取的字节数量。
+// 结果不受除 [Reader.Reset] 之外的任何方法调用影响。
+// md5:7057c00761109102
+
+5月1日 2:32:49 翻译注释:
+// Read implements the [io.Reader] 接口。. md5:6b6e15958e2263c0
+
+5月1日 2:32:49 命中翻译缓存:
+// Read implements the [io.Reader] 接口。. md5:6b6e15958e2263c0
+
+5月1日 2:32:49 翻译注释:
+// ReadAt 实现了 [io.ReaderAt] 接口。. md5:aff23aac8adb605e
+
+5月1日 2:32:49 命中翻译缓存:
+// ReadAt 实现了 [io.ReaderAt] 接口。. md5:aff23aac8adb605e
+
+5月1日 2:32:49 翻译注释:
+// ReadByte 实现了 [io.ByteReader] 接口。. md5:9580ddd72af46f48
+
+5月1日 2:32:50 翻译注释:
+// UnreadByte 在实现 [io.ByteScanner] 接口时补充了 [Reader.ReadByte] 的功能。. md5:5aa8f5cc398bf852
+
+5月1日 2:32:50 命中翻译缓存:
+// UnreadByte 在实现 [io.ByteScanner] 接口时补充了 [Reader.ReadByte] 的功能。. md5:5aa8f5cc398bf852
+
+5月1日 2:32:50 翻译注释:
+// ReadRune 实现了 [io.RuneReader] 接口。. md5:97f6bcc2e44946c6
+
+5月1日 2:32:51 翻译注释:
+// UnreadRune 在实现 [io.RuneScanner] 接口时补充了 [Reader.ReadRune]。. md5:d0948bd1ce43eeef
+
+5月1日 2:32:51 命中翻译缓存:
+// UnreadRune 在实现 [io.RuneScanner] 接口时补充了 [Reader.ReadRune]。. md5:d0948bd1ce43eeef
+
+5月1日 2:32:51 翻译注释:
+// Seek 实现了 [io.Seeker] 接口。. md5:407fc18ddaadacba
+
+5月1日 2:32:51 命中翻译缓存:
+// Seek 实现了 [io.Seeker] 接口。. md5:407fc18ddaadacba
+
+5月1日 2:32:51 翻译注释:
+// WriteTo 实现了 [io.WriterTo] 接口。. md5:93bec25fa975a33f
+
+5月1日 2:32:52 翻译注释:
+// Reset 将[Reader.Reader]重置为从b读取。. md5:3c05fdb3a579bd62
+
+5月1日 2:32:53 翻译注释:
+// NewReader 返回一个新的从 b 读取的 [Reader.Reader]。. md5:807cf3d6e5b558e1
+
+5月1日 2:32:53 命中翻译缓存:
+// NewReader 返回一个新的从 b 读取的 [Reader.Reader]。. md5:807cf3d6e5b558e1
+
+5月1日 2:32:53 翻译注释:
+// 版权归2012年的Go作者所有。保留所有权利。
+// 使用此源代码受BSD风格的
+// 许可证管理，可在LICENSE文件中找到。
+// md5:a2b8441cca608eb8
+
+5月1日 2:32:53 命中翻译缓存:
+// 版权归2012年的Go作者所有。保留所有权利。
+// 使用此源代码受BSD风格的
+// 许可证管理，可在LICENSE文件中找到。
+// md5:a2b8441cca608eb8
+
+5月1日 2:32:53 翻译注释:
+// 为竞态条件检测器进行的测试，以验证 ReadAt 方法不改变任何状态。
+// md5:9cd790971d166721
+
+5月1日 2:32:53 命中翻译缓存:
+// 为竞态条件检测器进行的测试，以验证 ReadAt 方法不改变任何状态。
+// md5:9cd790971d166721
+
+5月1日 2:32:53 翻译注释:
+// 此测试用于检测竞态条件检测器，以确认多个goroutine使用一个没有读取到任何字节的Read操作是安全的。
+// 这是我们历史上的行为。
+// 参见golang.org/issue/7856
+// md5:ec9e90217f9da7a3
+
+5月1日 2:32:54 翻译注释:
+// 验证从空读取器复制始终具有相同的结果，无论是否存在WriteTo方法。
+// md5:c49f3acaa8519966
+
+5月1日 2:32:54 命中翻译缓存:
+// 验证从空读取器复制始终具有相同的结果，无论是否存在WriteTo方法。
+// md5:c49f3acaa8519966
+
+5月1日 2:32:54 翻译注释:
+// 测试Len是否受读取影响，但Size不受影响。. md5:1c7a92525f02f091
+
+5月1日 2:32:54 通义千问翻译完毕
+
+5月1日 2:33:27 开始替换注释
+
+5月1日 2:33:27 开始替换注释
+
+5月1日 2:33:27 替换注释:
+// This file tests the situation where byte operations are checking
+// data very near to a page boundary. We want to make sure those
+// operations do not read across the boundary and cause a page
+// fault where they shouldn't.
+
+5月1日 2:33:27 替换注释:
+// These tests run only on linux. The code being tested is
+// not OS-specific, so it does not need to be tested on all
+// operating systems.
+
+5月1日 2:33:27 替换注释:
+// dangerousSlice returns a slice which is immediately
+// preceded and followed by a faulting page.
+
+5月1日 2:33:27 替换注释:
+// Only worry about when we're near the end of a page.
+
+5月1日 2:33:27 替换注释:
+// difference is only found on the last byte
+
+5月1日 2:33:27 替换注释:
+// Test differing alignments and sizes of q which always end on a page boundary.
+
+5月1日 2:33:27 替换注释:
+// A Buffer is a variable-sized buffer of bytes with [Buffer.Read] and [Buffer.Write] methods.
+// The zero value for Buffer is an empty buffer ready to use.
+
+5月1日 2:33:27 替换注释:
+// Any other read operation.
+
+5月1日 2:33:27 替换注释:
+// MinRead is the minimum slice size passed to a Read call by
+// [Buffer.ReadFrom]. As long as the [Buffer] has at least MinRead bytes beyond
+// what is required to hold the contents of r, ReadFrom will not grow the
+// underlying buffer.
+
+5月1日 2:33:27 替换注释:
+// ErrTooLarge is passed to panic if memory cannot be allocated to store data in a buffer.
+
+5月1日 2:33:27 替换注释:
+// Bytes returns a slice of length b.Len() holding the unread portion of the buffer.
+// The slice is valid for use only until the next buffer modification (that is,
+// only until the next call to a method like [Buffer.Read], [Buffer.Write], [Buffer.Reset], or [Buffer.Truncate]).
+// The slice aliases the buffer content at least until the next buffer modification,
+// so immediate changes to the slice will affect the result of future reads.
+
+5月1日 2:33:27 替换注释:
+// AvailableBuffer returns an empty buffer with b.Available() capacity.
+// This buffer is intended to be appended to and
+// passed to an immediately succeeding [Buffer.Write] call.
+// The buffer is only valid until the next write operation on b.
+
+5月1日 2:33:27 替换注释:
+// String returns the contents of the unread portion of the buffer
+// as a string. If the [Buffer] is a nil pointer, it returns "<nil>".
+//
+// To build strings more efficiently, see the strings.Builder type.
+
+5月1日 2:33:27 替换注释:
+// Len returns the number of bytes of the unread portion of the buffer;
+// b.Len() == len(b.Bytes()).
+
+5月1日 2:33:27 替换注释:
+// Cap returns the capacity of the buffer's underlying byte slice, that is, the
+// total space allocated for the buffer's data.
+
+5月1日 2:33:27 替换注释:
+// Available returns how many bytes are unused in the buffer.
+
+5月1日 2:33:27 替换注释:
+// Truncate discards all but the first n unread bytes from the buffer
+// but continues to use the same allocated storage.
+// It panics if n is negative or greater than the length of the buffer.
+
+5月1日 2:33:27 替换注释:
+// Reset resets the buffer to be empty,
+// but it retains the underlying storage for use by future writes.
+// Reset is the same as [Buffer.Truncate](0).
+
+5月1日 2:33:27 替换注释:
+// Grow grows the buffer's capacity, if necessary, to guarantee space for
+// another n bytes. After Grow(n), at least n bytes can be written to the
+// buffer without another allocation.
+// If n is negative, Grow will panic.
+// If the buffer can't grow it will panic with [ErrTooLarge].
+
+5月1日 2:33:27 替换注释:
+// Write appends the contents of p to the buffer, growing the buffer as
+// needed. The return value n is the length of p; err is always nil. If the
+// buffer becomes too large, Write will panic with [ErrTooLarge].
+
+5月1日 2:33:27 替换注释:
+// WriteString appends the contents of s to the buffer, growing the buffer as
+// needed. The return value n is the length of s; err is always nil. If the
+// buffer becomes too large, WriteString will panic with [ErrTooLarge].
+
+5月1日 2:33:27 替换注释:
+// ReadFrom reads data from r until EOF and appends it to the buffer, growing
+// the buffer as needed. The return value n is the number of bytes read. Any
+// error except io.EOF encountered during the read is also returned. If the
+// buffer becomes too large, ReadFrom will panic with [ErrTooLarge].
+
+5月1日 2:33:27 替换注释:
+// WriteTo writes data to w until the buffer is drained or an error occurs.
+// The return value n is the number of bytes written; it always fits into an
+// int, but it is int64 to match the io.WriterTo interface. Any error
+// encountered during the write is also returned.
+
+5月1日 2:33:27 替换注释:
+// WriteByte appends the byte c to the buffer, growing the buffer as needed.
+// The returned error is always nil, but is included to match [bufio.Writer]'s
+// WriteByte. If the buffer becomes too large, WriteByte will panic with
+// [ErrTooLarge].
+
+5月1日 2:33:27 替换注释:
+// WriteRune appends the UTF-8 encoding of Unicode code point r to the
+// buffer, returning its length and an error, which is always nil but is
+// included to match [bufio.Writer]'s WriteRune. The buffer is grown as needed;
+// if it becomes too large, WriteRune will panic with [ErrTooLarge].
+
+5月1日 2:33:27 替换注释:
+// Read reads the next len(p) bytes from the buffer or until the buffer
+// is drained. The return value n is the number of bytes read. If the
+// buffer has no data to return, err is io.EOF (unless len(p) is zero);
+// otherwise it is nil.
+
+5月1日 2:33:27 替换注释:
+// Next returns a slice containing the next n bytes from the buffer,
+// advancing the buffer as if the bytes had been returned by [Buffer.Read].
+// If there are fewer than n bytes in the buffer, Next returns the entire buffer.
+// The slice is only valid until the next call to a read or write method.
+
+5月1日 2:33:27 替换注释:
+// ReadByte reads and returns the next byte from the buffer.
+// If no byte is available, it returns error io.EOF.
+
+5月1日 2:33:27 替换注释:
+// ReadRune reads and returns the next UTF-8-encoded
+// Unicode code point from the buffer.
+// If no bytes are available, the error returned is io.EOF.
+// If the bytes are an erroneous UTF-8 encoding, it
+// consumes one byte and returns U+FFFD, 1.
+
+5月1日 2:33:27 替换注释:
+// UnreadRune unreads the last rune returned by [Buffer.ReadRune].
+// If the most recent read or write operation on the buffer was
+// not a successful [Buffer.ReadRune], UnreadRune returns an error.  (In this regard
+// it is stricter than [Buffer.UnreadByte], which will unread the last byte
+// from any read operation.)
+
+5月1日 2:33:27 替换注释:
+// UnreadByte unreads the last byte returned by the most recent successful
+// read operation that read at least one byte. If a write has happened since
+// the last read, if the last read returned an error, or if the read read zero
+// bytes, UnreadByte returns an error.
+
+5月1日 2:33:27 替换注释:
+// ReadBytes reads until the first occurrence of delim in the input,
+// returning a slice containing the data up to and including the delimiter.
+// If ReadBytes encounters an error before finding a delimiter,
+// it returns the data read before the error and the error itself (often io.EOF).
+// ReadBytes returns err != nil if and only if the returned data does not end in
+// delim.
+
+5月1日 2:33:27 替换注释:
+// ReadString reads until the first occurrence of delim in the input,
+// returning a string containing the data up to and including the delimiter.
+// If ReadString encounters an error before finding a delimiter,
+// it returns the data read before the error and the error itself (often io.EOF).
+// ReadString returns err != nil if and only if the returned data does not end
+// in delim.
+
+5月1日 2:33:27 替换注释:
+// NewBuffer creates and initializes a new [Buffer] using buf as its
+// initial contents. The new [Buffer] takes ownership of buf, and the
+// caller should not use buf after this call. NewBuffer is intended to
+// prepare a [Buffer] to read existing data. It can also be used to set
+// the initial size of the internal buffer for writing. To do that,
+// buf should have the desired capacity but a length of zero.
+//
+// In most cases, new([Buffer]) (or just declaring a [Buffer] variable) is
+// sufficient to initialize a [Buffer].
+
+5月1日 2:33:27 替换注释:
+// NewBufferString creates and initializes a new [Buffer] using string s as its
+// initial contents. It is intended to prepare a buffer to read an existing
+// string.
+//
+// In most cases, new([Buffer]) (or just declaring a [Buffer] variable) is
+// sufficient to initialize a [Buffer].
+
+5月1日 2:33:27 替换注释:
+// Copyright 2009 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:27 替换注释:
+// make this bigger for a larger (and slower) test
+
+5月1日 2:33:27 替换注释:
+// test data for write tests
+
+5月1日 2:33:27 替换注释:
+// test data; same as testString but as a slice.
+
+5月1日 2:33:27 替换注释:
+// Verify that contents of buf match the string s.
+
+5月1日 2:33:27 替换注释:
+// Fill buf through n writes of string fus.
+// The initial contents of buf corresponds to the string s;
+// the result is the final contents of buf returned as a string.
+
+5月1日 2:33:27 替换注释:
+// Fill buf through n writes of byte slice fub.
+// The initial contents of buf corresponds to the string s;
+// the result is the final contents of buf returned as a string.
+
+5月1日 2:33:27 替换注释:
+// Empty buf through repeated reads into fub.
+// The initial contents of buf corresponds to the string s.
+
+5月1日 2:33:27 替换注释:
+// Make sure that an empty Buffer remains empty when
+// it is "grown" before a Read that panics
+
+5月1日 2:33:27 替换注释:
+// First verify non-panic behaviour
+
+5月1日 2:33:27 替换注释:
+// Confirm that when Reader panics, the empty buffer remains empty
+
+5月1日 2:33:27 替换注释:
+// this is the error string of errNegativeRead
+
+5月1日 2:33:27 替换注释:
+// With a sufficiently sized buffer, there should be no allocations.
+
+5月1日 2:33:27 替换注释:
+// Built a test slice while we write the data
+
+5月1日 2:33:27 替换注释:
+// Check the resulting bytes
+
+5月1日 2:33:27 替换注释:
+// Read it back with ReadRune
+
+5月1日 2:33:27 替换注释:
+// Check that UnreadRune works
+
+5月1日 2:33:27 替换注释:
+	// Invalid runes, including negative ones, should be written as
+	// utf8.RuneError.
+
+5月1日 2:33:27 替换注释:
+				// 0 <= i <= j <= 5; 0 <= k <= 6
+				// Check that if we start with a buffer
+				// of length j at offset i and ask for
+				// Next(k), we get the right bytes.
+
+5月1日 2:33:27 替换注释:
+// If we read, this affects buf.off, which is good to test.
+
+5月1日 2:33:27 替换注释:
+// Check no allocation occurs in write, as long as we're single-threaded.
+
+5月1日 2:33:27 替换注释:
+// Check that buffer has correct data.
+
+5月1日 2:33:27 替换注释:
+// Was a bug: used to give EOF reading empty slice at EOF.
+
+5月1日 2:33:27 替换注释:
+// after unsuccessful read
+
+5月1日 2:33:27 替换注释:
+// Tests that we occasionally compact. Issue 5154.
+
+5月1日 2:33:27 替换注释:
+	// (*Buffer).grow allows for 2x capacity slop before sliding,
+	// so set our error threshold at 3x.
+
+5月1日 2:33:27 替换注释:
+// Check that we don't compact too often. From Issue 5154.
+
+5月1日 2:33:27 替换注释:
+// use max capacity to simulate a large append operation
+
+5月1日 2:33:27 替换注释:
+// should be nearly infinitely fast
+
+5月1日 2:33:27 替换注释:
+// Equal reports whether a and b
+// are the same length and contain the same bytes.
+// A nil argument is equivalent to an empty slice.
+
+5月1日 2:33:27 替换注释:
+// Compare returns an integer comparing two byte slices lexicographically.
+// The result will be 0 if a == b, -1 if a < b, and +1 if a > b.
+// A nil argument is equivalent to an empty slice.
+
+5月1日 2:33:27 替换注释:
+// Count counts the number of non-overlapping instances of sep in s.
+// If sep is an empty slice, Count returns 1 + the number of UTF-8-encoded code points in s.
+
+5月1日 2:33:27 替换注释:
+// Contains reports whether subslice is within b.
+
+5月1日 2:33:27 替换注释:
+// ContainsAny reports whether any of the UTF-8-encoded code points in chars are within b.
+
+5月1日 2:33:27 替换注释:
+// ContainsRune reports whether the rune is contained in the UTF-8-encoded byte slice b.
+
+5月1日 2:33:27 替换注释:
+// ContainsFunc reports whether any of the UTF-8-encoded code points r within b satisfy f(r).
+
+5月1日 2:33:27 替换注释:
+// IndexByte returns the index of the first instance of c in b, or -1 if c is not present in b.
+
+5月1日 2:33:27 替换注释:
+// LastIndex returns the index of the last instance of sep in s, or -1 if sep is not present in s.
+
+5月1日 2:33:27 替换注释:
+// LastIndexByte returns the index of the last instance of c in s, or -1 if c is not present in s.
+
+5月1日 2:33:27 替换注释:
+// IndexRune interprets s as a sequence of UTF-8-encoded code points.
+// It returns the byte index of the first occurrence in s of the given rune.
+// It returns -1 if rune is not present in s.
+// If r is utf8.RuneError, it returns the first instance of any
+// invalid UTF-8 byte sequence.
+
+5月1日 2:33:27 替换注释:
+// IndexAny interprets s as a sequence of UTF-8-encoded Unicode code points.
+// It returns the byte index of the first occurrence in s of any of the Unicode
+// code points in chars. It returns -1 if chars is empty or if there is no code
+// point in common.
+
+5月1日 2:33:27 替换注释:
+// LastIndexAny interprets s as a sequence of UTF-8-encoded Unicode code
+// points. It returns the byte index of the last occurrence in s of any of
+// the Unicode code points in chars. It returns -1 if chars is empty or if
+// there is no code point in common.
+
+5月1日 2:33:27 替换注释:
+// SplitN slices s into subslices separated by sep and returns a slice of
+// the subslices between those separators.
+// If sep is empty, SplitN splits after each UTF-8 sequence.
+// The count determines the number of subslices to return:
+//
+//	n > 0: at most n subslices; the last subslice will be the unsplit remainder.
+//	n == 0: the result is nil (zero subslices)
+//	n < 0: all subslices
+//
+// To split around the first instance of a separator, see Cut.
+
+5月1日 2:33:27 替换注释:
+// SplitAfterN slices s into subslices after each instance of sep and
+// returns a slice of those subslices.
+// If sep is empty, SplitAfterN splits after each UTF-8 sequence.
+// The count determines the number of subslices to return:
+//
+//	n > 0: at most n subslices; the last subslice will be the unsplit remainder.
+//	n == 0: the result is nil (zero subslices)
+//	n < 0: all subslices
+
+5月1日 2:33:27 替换注释:
+// Split slices s into all subslices separated by sep and returns a slice of
+// the subslices between those separators.
+// If sep is empty, Split splits after each UTF-8 sequence.
+// It is equivalent to SplitN with a count of -1.
+//
+// To split around the first instance of a separator, see Cut.
+
+5月1日 2:33:27 替换注释:
+// SplitAfter slices s into all subslices after each instance of sep and
+// returns a slice of those subslices.
+// If sep is empty, SplitAfter splits after each UTF-8 sequence.
+// It is equivalent to SplitAfterN with a count of -1.
+
+5月1日 2:33:28 替换注释:
+// Fields interprets s as a sequence of UTF-8-encoded code points.
+// It splits the slice s around each instance of one or more consecutive white space
+// characters, as defined by unicode.IsSpace, returning a slice of subslices of s or an
+// empty slice if s contains only white space.
+
+5月1日 2:33:28 替换注释:
+// FieldsFunc interprets s as a sequence of UTF-8-encoded code points.
+// It splits the slice s at each run of code points c satisfying f(c) and
+// returns a slice of subslices of s. If all code points in s satisfy f(c), or
+// len(s) == 0, an empty slice is returned.
+//
+// FieldsFunc makes no guarantees about the order in which it calls f(c)
+// and assumes that f always returns the same value for a given c.
+
+5月1日 2:33:28 替换注释:
+// Join concatenates the elements of s to create a new byte slice. The separator
+// sep is placed between elements in the resulting slice.
+
+5月1日 2:33:28 替换注释:
+// HasPrefix reports whether the byte slice s begins with prefix.
+
+5月1日 2:33:28 替换注释:
+// HasSuffix reports whether the byte slice s ends with suffix.
+
+5月1日 2:33:28 替换注释:
+// Map returns a copy of the byte slice s with all its characters modified
+// according to the mapping function. If mapping returns a negative value, the character is
+// dropped from the byte slice with no replacement. The characters in s and the
+// output are interpreted as UTF-8-encoded code points.
+
+5月1日 2:33:28 替换注释:
+// Repeat returns a new byte slice consisting of count copies of b.
+//
+// It panics if count is negative or if the result of (len(b) * count)
+// overflows.
+
+5月1日 2:33:28 替换注释:
+// ToUpper returns a copy of the byte slice s with all Unicode letters mapped to
+// their upper case.
+
+5月1日 2:33:28 替换注释:
+// ToLower returns a copy of the byte slice s with all Unicode letters mapped to
+// their lower case.
+
+5月1日 2:33:28 替换注释:
+// ToTitle treats s as UTF-8-encoded bytes and returns a copy with all the Unicode letters mapped to their title case.
+
+5月1日 2:33:28 替换注释:
+// ToUpperSpecial treats s as UTF-8-encoded bytes and returns a copy with all the Unicode letters mapped to their
+// upper case, giving priority to the special casing rules.
+
+5月1日 2:33:28 替换注释:
+// ToLowerSpecial treats s as UTF-8-encoded bytes and returns a copy with all the Unicode letters mapped to their
+// lower case, giving priority to the special casing rules.
+
+5月1日 2:33:28 替换注释:
+// ToTitleSpecial treats s as UTF-8-encoded bytes and returns a copy with all the Unicode letters mapped to their
+// title case, giving priority to the special casing rules.
+
+5月1日 2:33:28 替换注释:
+// ToValidUTF8 treats s as UTF-8-encoded bytes and returns a copy with each run of bytes
+// representing invalid UTF-8 replaced with the bytes in replacement, which may be empty.
+
+5月1日 2:33:28 替换注释:
+// Title treats s as UTF-8-encoded bytes and returns a copy with all Unicode letters that begin
+// words mapped to their title case.
+//
+// Deprecated: The rule Title uses for word boundaries does not handle Unicode
+// punctuation properly. Use golang.org/x/text/cases instead.
+
+5月1日 2:33:28 替换注释:
+// TrimLeftFunc treats s as UTF-8-encoded bytes and returns a subslice of s by slicing off
+// all leading UTF-8-encoded code points c that satisfy f(c).
+
+5月1日 2:33:28 替换注释:
+// TrimRightFunc returns a subslice of s by slicing off all trailing
+// UTF-8-encoded code points c that satisfy f(c).
+
+5月1日 2:33:28 替换注释:
+// TrimFunc returns a subslice of s by slicing off all leading and trailing
+// UTF-8-encoded code points c that satisfy f(c).
+
+5月1日 2:33:28 替换注释:
+// TrimPrefix returns s without the provided leading prefix string.
+// If s doesn't start with prefix, s is returned unchanged.
+
+5月1日 2:33:28 替换注释:
+// TrimSuffix returns s without the provided trailing suffix string.
+// If s doesn't end with suffix, s is returned unchanged.
+
+5月1日 2:33:28 替换注释:
+// IndexFunc interprets s as a sequence of UTF-8-encoded code points.
+// It returns the byte index in s of the first Unicode
+// code point satisfying f(c), or -1 if none do.
+
+5月1日 2:33:28 替换注释:
+// LastIndexFunc interprets s as a sequence of UTF-8-encoded code points.
+// It returns the byte index in s of the last Unicode
+// code point satisfying f(c), or -1 if none do.
+
+5月1日 2:33:28 替换注释:
+// Trim returns a subslice of s by slicing off all leading and
+// trailing UTF-8-encoded code points contained in cutset.
+
+5月1日 2:33:28 替换注释:
+// TrimLeft returns a subslice of s by slicing off all leading
+// UTF-8-encoded code points contained in cutset.
+
+5月1日 2:33:28 替换注释:
+// TrimRight returns a subslice of s by slicing off all trailing
+// UTF-8-encoded code points that are contained in cutset.
+
+5月1日 2:33:28 替换注释:
+// TrimSpace returns a subslice of s by slicing off all leading and
+// trailing white space, as defined by Unicode.
+
+5月1日 2:33:28 替换注释:
+// Runes interprets s as a sequence of UTF-8-encoded code points.
+// It returns a slice of runes (Unicode code points) equivalent to s.
+
+5月1日 2:33:28 替换注释:
+// Replace returns a copy of the slice s with the first n
+// non-overlapping instances of old replaced by new.
+// If old is empty, it matches at the beginning of the slice
+// and after each UTF-8 sequence, yielding up to k+1 replacements
+// for a k-rune slice.
+// If n < 0, there is no limit on the number of replacements.
+
+5月1日 2:33:28 替换注释:
+// ReplaceAll returns a copy of the slice s with all
+// non-overlapping instances of old replaced by new.
+// If old is empty, it matches at the beginning of the slice
+// and after each UTF-8 sequence, yielding up to k+1 replacements
+// for a k-rune slice.
+
+5月1日 2:33:28 替换注释:
+// EqualFold reports whether s and t, interpreted as UTF-8 strings,
+// are equal under simple Unicode case-folding, which is a more general
+// form of case-insensitivity.
+
+5月1日 2:33:28 替换注释:
+// Index returns the index of the first instance of sep in s, or -1 if sep is not present in s.
+
+5月1日 2:33:28 替换注释:
+// Cut slices s around the first instance of sep,
+// returning the text before and after sep.
+// The found result reports whether sep appears in s.
+// If sep does not appear in s, cut returns s, nil, false.
+//
+// Cut returns slices of the original slice s, not copies.
+
+5月1日 2:33:28 替换注释:
+// Clone returns a copy of b[:len(b)].
+// The result may have additional unused capacity.
+// Clone(nil) returns nil.
+
+5月1日 2:33:28 替换注释:
+// CutPrefix returns s without the provided leading prefix byte slice
+// and reports whether it found the prefix.
+// If s doesn't start with prefix, CutPrefix returns s, false.
+// If prefix is the empty byte slice, CutPrefix returns s, true.
+//
+// CutPrefix returns slices of the original slice s, not copies.
+
+5月1日 2:33:28 替换注释:
+// CutSuffix returns s without the provided ending suffix byte slice
+// and reports whether it found the suffix.
+// If s doesn't end with suffix, CutSuffix returns s, false.
+// If suffix is the empty byte slice, CutSuffix returns s, true.
+//
+// CutSuffix returns slices of the original slice s, not copies.
+
+5月1日 2:33:28 替换注释:
+// Copyright 2009 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:28 替换注释:
+// For ease of reading, the test cases use strings that are converted to byte
+// slices before invoking the functions.
+
+5月1日 2:33:28 替换注释:
+// Run the tests and check for allocation at the same time.
+
+5月1日 2:33:28 替换注释:
+// randomish but deterministic data
+
+5月1日 2:33:28 替换注释:
+// make sure Equal returns false for minimally different strings. The data
+// is all zeros except for a single one in one location.
+
+5月1日 2:33:28 替换注释:
+// cases with one byte strings - test IndexByte and special case in Index()
+
+5月1日 2:33:28 替换注释:
+// test fallback to Rabin-Karp.
+
+5月1日 2:33:28 替换注释:
+// Execute f on each test case.  funcName should be the name of f; it's used
+// in failure reports.
+
+5月1日 2:33:28 替换注释:
+// case for function Index.
+
+5月1日 2:33:28 替换注释:
+// case for function LastIndex.
+
+5月1日 2:33:28 替换注释:
+// something in the middle
+
+5月1日 2:33:28 替换注释:
+// test a larger buffer with different sizes and alignments
+
+5月1日 2:33:28 替换注释:
+// different start alignments
+
+5月1日 2:33:28 替换注释:
+// different end alignments
+
+5月1日 2:33:28 替换注释:
+// different start and end alignments
+
+5月1日 2:33:28 替换注释:
+// test a small index across all page offsets
+
+5月1日 2:33:28 替换注释:
+// Make sure we find the correct byte even when straddling a page.
+
+5月1日 2:33:28 替换注释:
+// Make sure matches outside the slice never trigger.
+
+5月1日 2:33:28 替换注释:
+// RuneError should match any invalid UTF-8 byte sequence.
+
+5月1日 2:33:28 替换注释:
+// Invalid rune values should never match.
+
+5月1日 2:33:28 替换注释:
+// test count of a single byte across page offsets
+
+5月1日 2:33:28 替换注释:
+// Make sure we don't count bytes outside our window
+
+5月1日 2:33:28 替换注释:
+// Fill the window with non-match
+
+5月1日 2:33:28 替换注释:
+// Try to find something that doesn't exist
+
+5月1日 2:33:28 替换注释:
+// Appending to the results should not change future results.
+
+5月1日 2:33:28 替换注释:
+// Test case for any function which accepts and returns a byte slice.
+// For ease of creation, we write the input byte slice as a string.
+
+5月1日 2:33:28 替换注释:
+// grows one byte per char
+
+5月1日 2:33:28 替换注释:
+// test utf8.RuneSelf and utf8.MaxRune
+
+5月1日 2:33:28 替换注释:
+// shrinks one byte per char
+
+5月1日 2:33:28 替换注释:
+// User-defined self-inverse mapping function
+
+5月1日 2:33:28 替换注释:
+// Run a couple of awful growth/shrinkage tests
+
+5月1日 2:33:28 替换注释:
+// 1.  Grow. This triggers two reallocations in Map.
+
+5月1日 2:33:29 替换注释:
+// Tests for results over the chunkLimit
+
+5月1日 2:33:29 替换注释:
+// See Issue golang.org/issue/16237
+
+5月1日 2:33:29 替换注释:
+// can only test reassembly if we didn't lose information
+
+5月1日 2:33:29 替换注释:
+	// The nils returned by TrimLeftFunc are odd behavior, but we need
+	// to preserve backwards compatibility.
+
+5月1日 2:33:29 替换注释:
+// last rune in space is 3 bytes
+
+5月1日 2:33:29 替换注释:
+// Input is ~10% space, ~10% 2-byte UTF-8, rest ASCII non-space.
+
+5月1日 2:33:29 替换注释:
+// Input is ~10% space, rest ASCII non-space.
+
+5月1日 2:33:29 替换注释:
+// Copyright 2013 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:29 替换注释:
+// vary the input alignment of tt.b
+
+5月1日 2:33:29 替换注释:
+// lengths to test in ascending order
+
+5月1日 2:33:29 替换注释:
+// randomish but deterministic data. No 0 or 255.
+
+5月1日 2:33:29 替换注释:
+// data past the end is different
+
+5月1日 2:33:29 替换注释:
+	// This test compares byte slices that are almost identical, except one
+	// difference that for some j, a[j]>b[j] and a[j+1]<b[j+1]. If the implementation
+	// compares large chunks with wrong endianness, it gets wrong result.
+	// no vector register is larger than 512 bytes for now
+
+5月1日 2:33:29 替换注释:
+// Copyright 2011 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:29 替换注释:
+// A Buffer needs no initialization.
+
+5月1日 2:33:29 替换注释:
+// A Buffer can turn a string or a []byte into an io.Reader.
+
+5月1日 2:33:29 替换注释:
+	// Output
+	// 1
+	// bcde
+	// a
+
+5月1日 2:33:29 替换注释:
+	// Output
+	// 97
+	// bcde
+
+5月1日 2:33:29 替换注释:
+// Interpret Compare's result by comparing it to zero.
+
+5月1日 2:33:29 替换注释:
+// Prefer Equal to Compare for equality comparisons.
+
+5月1日 2:33:29 替换注释:
+// Binary search to find a matching byte slice.
+
+5月1日 2:33:29 替换注释:
+// Return haystack[i] >= needle.
+
+5月1日 2:33:29 替换注释:
+// before & after each rune
+
+5月1日 2:33:29 替换注释:
+// Copyright 2009 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:29 替换注释:
+// Export func for testing
+
+5月1日 2:33:29 替换注释:
+// A Reader implements the io.Reader, io.ReaderAt, io.WriterTo, io.Seeker,
+// io.ByteScanner, and io.RuneScanner interfaces by reading from
+// a byte slice.
+// Unlike a [Buffer], a Reader is read-only and supports seeking.
+// The zero value for Reader operates like a Reader of an empty slice.
+
+5月1日 2:33:29 替换注释:
+// Len returns the number of bytes of the unread portion of the
+// slice.
+
+5月1日 2:33:29 替换注释:
+// Size returns the original length of the underlying byte slice.
+// Size is the number of bytes available for reading via [Reader.ReadAt].
+// The result is unaffected by any method calls except [Reader.Reset].
+
+5月1日 2:33:29 替换注释:
+// Read implements the [io.Reader] interface.
+
+5月1日 2:33:29 替换注释:
+// ReadAt implements the [io.ReaderAt] interface.
+
+5月1日 2:33:29 替换注释:
+// ReadByte implements the [io.ByteReader] interface.
+
+5月1日 2:33:29 替换注释:
+// UnreadByte complements [Reader.ReadByte] in implementing the [io.ByteScanner] interface.
+
+5月1日 2:33:29 替换注释:
+// ReadRune implements the [io.RuneReader] interface.
+
+5月1日 2:33:29 替换注释:
+// UnreadRune complements [Reader.ReadRune] in implementing the [io.RuneScanner] interface.
+
+5月1日 2:33:29 替换注释:
+// Seek implements the [io.Seeker] interface.
+
+5月1日 2:33:29 替换注释:
+// WriteTo implements the [io.WriterTo] interface.
+
+5月1日 2:33:29 替换注释:
+// Reset resets the [Reader.Reader] to be reading from b.
+
+5月1日 2:33:29 替换注释:
+// NewReader returns a new [Reader.Reader] reading from b.
+
+5月1日 2:33:29 替换注释:
+// Copyright 2012 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:29 替换注释:
+	// Test for the race detector, to verify ReadAt doesn't mutate
+	// any state.
+
+5月1日 2:33:29 替换注释:
+	// Test for the race detector, to verify a Read that doesn't yield any bytes
+	// is okay to use from multiple goroutines. This was our historic behavior.
+	// See golang.org/issue/7856
+
+5月1日 2:33:29 替换注释:
+// verify that copying from an empty reader always has the same results,
+// regardless of the presence of a WriteTo method.
+
+5月1日 2:33:29 替换注释:
+// tests that Len is affected by reads, but Size is not.
+
+5月1日 2:33:40 替换注释:
+// Copyright 2017 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:40 替换注释:
+// Check that subsequent operations didn't change the returned strings.
+
+5月1日 2:33:40 替换注释:
+	// Ensure that writing after Reset doesn't alter
+	// previously returned strings.
+
+5月1日 2:33:40 替换注释:
+// should be only alloc, when growLen > 0
+
+5月1日 2:33:40 替换注释:
+// when growLen < 0, should panic
+
+5月1日 2:33:40 替换注释:
+	// Issue 23382; verify that copyCheck doesn't force the
+	// Builder to escape and be heap allocated.
+
+5月1日 2:33:40 替换注释:
+	// Invalid runes, including negative ones, should be written as
+	// utf8.RuneError.
+
+5月1日 2:33:40 替换注释:
+// Copyright 2021 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:40 替换注释:
+// Copyright 2013 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:40 替换注释:
+// Derived from bytes/compare_test.go.
+// Benchmarks omitted since the underlying implementation is identical.
+
+5月1日 2:33:40 替换注释:
+// lengths to test in ascending order
+
+5月1日 2:33:40 替换注释:
+// randomish but deterministic data. No 0 or 255.
+
+5月1日 2:33:40 替换注释:
+// data past the end is different
+
+5月1日 2:33:40 替换注释:
+// Copyright 2012 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:40 替换注释:
+	// Finds whether a string contains a particular Unicode code point.
+	// The code point for the lowercase letter "a", for example, is 97.
+
+5月1日 2:33:40 替换注释:
+// before & after each rune
+
+5月1日 2:33:40 替换注释:
+// true because comparison uses simple case-folding
+
+5月1日 2:33:40 替换注释:
+// false because comparison does not use full case-folding
+
+5月1日 2:33:40 替换注释:
+// Compare this example to the ToTitle example.
+
+5月1日 2:33:40 替换注释:
+// Compare this example to the Title example.
+
+5月1日 2:33:40 替换注释:
+// Copyright 2011 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:40 替换注释:
+//
+//func (r *Replacer) Replacer() any {
+//	r.once.Do(r.buildOnce)
+//	return r.r
+//}
+//
+//func (r *Replacer) PrintTrie() string {
+//	r.once.Do(r.buildOnce)
+//	gen := r.r.(*genericReplacer)
+//	return gen.printNode(&gen.root, 0)
+//}
+//
+//func (r *genericReplacer) printNode(t *trieNode, depth int) (s string) {
+//	if t.priority > 0 {
+//		s += "+"
+//	} else {
+//		s += "-"
+//	}
+//	s += "\n"
+//
+//	if t.prefix != "" {
+//		s += Repeat(".", depth) + t.prefix
+//		s += r.printNode(t.next, depth+len(t.prefix))
+//	} else if t.table != nil {
+//		for b, m := range r.mapping {
+//			if int(m) != r.tableSize && t.table[m] != nil {
+//				s += Repeat(".", depth) + string([]byte{byte(b)})
+//				s += r.printNode(t.table[m], depth+1)
+//			}
+//		}
+//	}
+//	return
+//}
+//
+//func StringFind(pattern, text string) int {
+//	return makeStringFinder(pattern).next(text)
+//}
+//
+//func DumpTables(pattern string) ([]int, []int) {
+//	finder := makeStringFinder(pattern)
+//	return finder.badCharSkip[:], finder.goodSuffixSkip
+//}
+
+5月1日 2:33:40 替换注释:
+// Copyright 2012 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:40 替换注释:
+	// Test for the race detector, to verify ReadAt doesn't mutate
+	// any state.
+
+5月1日 2:33:40 替换注释:
+	// Test for the race detector, to verify a Read that doesn't yield any bytes
+	// is okay to use from multiple goroutines. This was our historic behavior.
+	// See golang.org/issue/7856
+
+5月1日 2:33:40 替换注释:
+// tests that Len is affected by reads, but Size is not.
+
+5月1日 2:33:40 替换注释:
+// Copyright 2009 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:40 替换注释:
+// The http package's old HTML escaping function.
+
+5月1日 2:33:40 替换注释:
+// TestReplacer tests the replacer implementations.
+
+5月1日 2:33:40 替换注释:
+// str converts 0xff to "\xff". This isn't just string(b) since that converts to UTF-8.
+
+5月1日 2:33:40 替换注释:
+// inc maps "\x00"->"\x01", ..., "a"->"b", "b"->"c", ..., "\xff"->"\x00".
+
+5月1日 2:33:40 替换注释:
+// Test cases with 1-byte old strings, 1-byte new strings.
+
+5月1日 2:33:40 替换注释:
+// repeat maps "a"->"a", "b"->"bb", "c"->"ccc", ...
+
+5月1日 2:33:40 替换注释:
+// Test cases with 1-byte old strings, variable length new strings.
+
+5月1日 2:33:40 替换注释:
+// The remaining test cases have variable length old strings.
+
+5月1日 2:33:40 替换注释:
+	// gen1 has multiple old strings of variable length. There is no
+	// overall non-empty common prefix, but some pairwise common prefixes.
+
+5月1日 2:33:40 替换注释:
+// gen2 has multiple old strings with no pairwise common prefix.
+
+5月1日 2:33:40 替换注释:
+// gen3 has multiple old strings with an overall common prefix.
+
+5月1日 2:33:40 替换注释:
+	// foo{1,2,3,4} have multiple old strings with an overall common prefix
+	// and 1- or 2- byte extensions from the common prefix.
+
+5月1日 2:33:40 替换注释:
+// genAll maps "\x00\x01\x02...\xfe\xff" to "[all]", amongst other things.
+
+5月1日 2:33:40 替换注释:
+// Test cases with empty old strings.
+
+5月1日 2:33:40 替换注释:
+// Issue 6659 cases (more single string replacer)
+
+5月1日 2:33:40 替换注释:
+// TestPickAlgorithm tests that NewReplacer picks the correct algorithm.
+
+5月1日 2:33:40 替换注释:
+// TestWriteStringError tests that WriteString returns an error
+// received from the underlying io.Writer.
+
+5月1日 2:33:40 替换注释:
+// TestGenericTrieBuilding verifies the structure of the generated trie. There
+// is one node per line, and the key ending with the current line is in the
+// trie if it ends with a "+".
+
+5月1日 2:33:40 替换注释:
+// Remove tabs from tc.out
+
+5月1日 2:33:40 替换注释:
+// varying lengths forces generic
+
+5月1日 2:33:40 替换注释:
+// BenchmarkByteByteReplaces compares byteByteImpl against multiple Replaces.
+
+5月1日 2:33:40 替换注释:
+// BenchmarkByteByteMap compares byteByteImpl against Map.
+
+5月1日 2:33:40 替换注释:
+// Copyright 2012 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:40 替换注释:
+// From https://www.cs.utexas.edu/~moore/publications/fstrpos.pdf
+
+5月1日 2:33:41 替换注释:
+// Copyright 2009 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+5月1日 2:33:41 替换注释:
+// cases with one byte strings - test special case in Index()
+
+5月1日 2:33:41 替换注释:
+// test special cases in Index() for short strings
+
+5月1日 2:33:41 替换注释:
+// test fallback to Rabin-Karp.
+
+5月1日 2:33:41 替换注释:
+// Execute f on each test case.  funcName should be the name of f; it's used
+// in failure reports.
+
+5月1日 2:33:41 替换注释:
+// something in the middle
+
+5月1日 2:33:41 替换注释:
+// RuneError should match any invalid UTF-8 byte sequence.
+
+5月1日 2:33:41 替换注释:
+// Invalid rune values should never match.
+
+5月1日 2:33:41 替换注释:
+// Test case for any function which accepts and returns a single string.
+
+5月1日 2:33:41 替换注释:
+// grows one byte per char
+
+5月1日 2:33:41 替换注释:
+// test utf8.RuneSelf and utf8.MaxRune
+
+5月1日 2:33:41 替换注释:
+// shrinks one byte per char
+
+5月1日 2:33:41 替换注释:
+// User-defined self-inverse mapping function
+
+5月1日 2:33:41 替换注释:
+// Run a couple of awful growth/shrinkage tests
+
+5月1日 2:33:41 替换注释:
+// 1.  Grow. This triggers two reallocations in Map.
+
+5月1日 2:33:41 替换注释:
+// 7. Handle invalid UTF-8 sequence
+
+5月1日 2:33:41 替换注释:
+// 8. Check utf8.RuneSelf and utf8.MaxRune encoding
+
+5月1日 2:33:41 替换注释:
+// 9. Check mapping occurs in the front, middle and back
+
+5月1日 2:33:41 替换注释:
+// last rune in space is 3 bytes
+
+5月1日 2:33:41 替换注释:
+// Make a string of all the runes.
+
+5月1日 2:33:41 替换注释:
+// Tests for results over the chunkLimit
+
+5月1日 2:33:41 替换注释:
+// See Issue golang.org/issue/16237
+
+5月1日 2:33:41 替换注释:
+// can only test reassembly if we didn't lose information
+
+5月1日 2:33:41 替换注释:
+	// cases to cover code in runtime/asm_amd64.s:indexShortStr
+	// 2-byte needle
+
+5月1日 2:33:41 替换注释:
+// Input is ~10% space, ~10% 2-byte UTF-8, rest ASCII non-space.
+
+5月1日 2:33:41 替换注释:
+// Input is ~10% space, rest ASCII non-space.
+
+5月1日 2:33:51 替换注释完毕
+

@@ -1,0 +1,7 @@
+// ErrDot indicates that a path lookup resolved to an executable
+// in the current directory due to ‘.’ being in the path, either
+// implicitly or explicitly. See the package documentation for details.
+//
+// Note that functions in this package do not return ErrDot directly.
+// Code should use errors.Is(err, ErrDot), not err == ErrDot,
+// to test whether a returned error err is due to this condition.

@@ -1,0 +1,256 @@
+4月29日 23:46:31 提取: E:\SVN\GO\code\debug\os\dir.go
+
+4月29日 23:46:31 提取: E:\SVN\GO\code\debug\os\dirent_aix.go
+
+4月29日 23:46:31 提取: E:\SVN\GO\code\debug\os\dirent_dragonfly.go
+
+4月29日 23:46:31 提取: E:\SVN\GO\code\debug\os\dirent_freebsd.go
+
+4月29日 23:46:31 提取: E:\SVN\GO\code\debug\os\dirent.go
+
+4月29日 23:46:31 提取: E:\SVN\GO\code\debug\os\dirent_linux.go
+
+4月29日 23:46:31 提取: E:\SVN\GO\code\debug\os\dirent_netbsd.go
+
+4月29日 23:46:31 提取: E:\SVN\GO\code\debug\os\dirent_openbsd.go
+
+4月29日 23:46:31 提取: E:\SVN\GO\code\debug\os\dirent_solaris.go
+
+4月29日 23:46:31 提取: E:\SVN\GO\code\debug\os\dirent_wasip1.go
+
+4月29日 23:46:32 提取: E:\SVN\GO\code\debug\os\dir_darwin.go
+
+4月29日 23:46:32 提取: E:\SVN\GO\code\debug\os\dir.go
+
+4月29日 23:46:32 提取: E:\SVN\GO\code\debug\os\dir.go
+
+4月29日 23:46:32 提取: E:\SVN\GO\code\debug\os\dir.go
+
+4月29日 23:46:32 提取: E:\SVN\GO\code\debug\os\endian_big.go
+
+4月29日 23:46:32 提取: E:\SVN\GO\code\debug\os\endian_little.go
+
+4月29日 23:46:32 提取: E:\SVN\GO\code\debug\os\env.go
+
+4月29日 23:46:32 提取: E:\SVN\GO\code\debug\os\error.go
+
+4月29日 23:46:32 提取: E:\SVN\GO\code\debug\os\error_errno.go
+
+4月29日 23:46:33 提取: E:\SVN\GO\code\debug\os\error.go
+
+4月29日 23:46:33 提取: E:\SVN\GO\code\debug\os\error.go
+
+4月29日 23:46:33 提取: E:\SVN\GO\code\debug\os\exec.go
+
+4月29日 23:46:33 提取: E:\SVN\GO\code\debug\os\executable.go
+
+4月29日 23:46:33 提取: E:\SVN\GO\code\debug\os\executable_darwin.go
+
+4月29日 23:46:34 提取: E:\SVN\GO\code\debug\os\executable_dragonfly.go
+
+4月29日 23:46:34 提取: E:\SVN\GO\code\debug\os\executable_freebsd.go
+
+4月29日 23:46:34 提取: E:\SVN\GO\code\debug\os\executable_path.go
+
+4月29日 23:46:34 提取: E:\SVN\GO\code\debug\os\executable.go
+
+4月29日 23:46:34 提取: E:\SVN\GO\code\debug\os\executable_procfs.go
+
+4月29日 23:46:35 提取: E:\SVN\GO\code\debug\os\executable_solaris.go
+
+4月29日 23:46:35 提取: E:\SVN\GO\code\debug\os\executable_sysctl.go
+
+4月29日 23:46:35 提取: E:\SVN\GO\code\debug\os\executable.go
+
+4月29日 23:46:35 提取: E:\SVN\GO\code\debug\os\executable.go
+
+4月29日 23:46:35 提取: E:\SVN\GO\code\debug\os\exec.go
+
+4月29日 23:46:36 提取: E:\SVN\GO\code\debug\os\exec.go
+
+4月29日 23:46:36 提取: E:\SVN\GO\code\debug\os\exec.go
+
+4月29日 23:46:36 提取: E:\SVN\GO\code\debug\os\exec.go
+
+4月29日 23:46:36 提取: E:\SVN\GO\code\debug\os\file.go
+
+4月29日 23:46:36 提取: E:\SVN\GO\code\debug\os\file_mutex.go
+
+4月29日 23:46:36 提取: E:\SVN\GO\code\debug\os\file_open.go
+
+4月29日 23:46:36 提取: E:\SVN\GO\code\debug\os\file_open_wasip1.go
+
+4月29日 23:46:36 提取: E:\SVN\GO\code\debug\os\file.go
+
+4月29日 23:46:36 提取: E:\SVN\GO\code\debug\os\file.go
+
+4月29日 23:46:36 提取: E:\SVN\GO\code\debug\os\file.go
+
+4月29日 23:46:37 提取: E:\SVN\GO\code\debug\os\file_wasip1.go
+
+4月29日 23:46:37 提取: E:\SVN\GO\code\debug\os\file.go
+
+4月29日 23:46:37 提取: E:\SVN\GO\code\debug\os\getwd.go
+
+4月29日 23:46:37 提取: E:\SVN\GO\code\debug\os\path.go
+
+4月29日 23:46:37 提取: E:\SVN\GO\code\debug\os\path.go
+
+4月29日 23:46:37 提取: E:\SVN\GO\code\debug\os\path.go
+
+4月29日 23:46:37 提取: E:\SVN\GO\code\debug\os\path.go
+
+4月29日 23:46:37 提取: E:\SVN\GO\code\debug\os\pipe2.go
+
+4月29日 23:46:37 提取: E:\SVN\GO\code\debug\os\pipe.go
+
+4月29日 23:46:37 提取: E:\SVN\GO\code\debug\os\pipe.go
+
+4月29日 23:46:38 提取: E:\SVN\GO\code\debug\os\proc.go
+
+4月29日 23:46:38 提取: E:\SVN\GO\code\debug\os\rawconn.go
+
+4月29日 23:46:39 提取: E:\SVN\GO\code\debug\os\removeall_at.go
+
+4月29日 23:46:39 提取: E:\SVN\GO\code\debug\os\removeall_noat.go
+
+4月29日 23:46:39 提取: E:\SVN\GO\code\debug\os\stat.go
+
+4月29日 23:46:39 提取: E:\SVN\GO\code\debug\os\stat_aix.go
+
+4月29日 23:46:39 提取: E:\SVN\GO\code\debug\os\stat_darwin.go
+
+4月29日 23:46:39 提取: E:\SVN\GO\code\debug\os\stat_dragonfly.go
+
+4月29日 23:46:39 提取: E:\SVN\GO\code\debug\os\stat_freebsd.go
+
+4月29日 23:46:39 提取: E:\SVN\GO\code\debug\os\stat.go
+
+4月29日 23:46:39 提取: E:\SVN\GO\code\debug\os\stat_linux.go
+
+4月29日 23:46:39 提取: E:\SVN\GO\code\debug\os\stat_netbsd.go
+
+4月29日 23:46:40 提取: E:\SVN\GO\code\debug\os\stat_openbsd.go
+
+4月29日 23:46:40 提取: E:\SVN\GO\code\debug\os\stat.go
+
+4月29日 23:46:40 提取: E:\SVN\GO\code\debug\os\stat_solaris.go
+
+4月29日 23:46:40 提取: E:\SVN\GO\code\debug\os\stat.go
+
+4月29日 23:46:40 提取: E:\SVN\GO\code\debug\os\stat_wasip1.go
+
+4月29日 23:46:40 提取: E:\SVN\GO\code\debug\os\stat.go
+
+4月29日 23:46:40 提取: E:\SVN\GO\code\debug\os\sticky_bsd.go
+
+4月29日 23:46:40 提取: E:\SVN\GO\code\debug\os\sticky_notbsd.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\sys.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\sys_aix.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\sys_bsd.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\sys.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\sys_linux.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\sys.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\sys_solaris.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\sys.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\sys_wasip1.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\sys.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\tempfile.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\types.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\types.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\types.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\types.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\wait6_dragonfly.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\wait6_freebsd64.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\wait6_freebsd_386.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\wait6_freebsd_arm.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\wait6_netbsd.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\wait_unimp.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\wait_wait6.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\wait_waitid.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\zero_copy_linux.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\zero_copy_stub.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\exec\exec.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\exec\exec.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\exec\exec.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\exec\exec.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\exec\lp.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\exec\lp.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\exec\lp.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\exec\lp.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\exec\read3.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\signal\doc.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\signal\signal.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\signal\signal.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\signal\signal.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\cgo_listgroups.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\cgo_lookup_cgo.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\cgo_lookup_syscall.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\cgo_lookup.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\getgrouplist_syscall.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\getgrouplist.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\listgroups_stub.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\listgroups.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\lookup.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\lookup_android.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\lookup.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\lookup_stubs.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\lookup.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\lookup.go
+
+4月29日 23:46:41 提取: E:\SVN\GO\code\debug\os\user\user.go
+
+4月29日 23:46:41 提取完毕.累计提取184个方法复制文件:0个文件
+

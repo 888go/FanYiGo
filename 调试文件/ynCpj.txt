@@ -1,0 +1,1 @@
+// ErrProcessDone indicates a Process has finished.
