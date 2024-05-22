@@ -1,9 +1,0 @@
-
-
-// epipecheck raises SIGPIPE if we get an EPIPE error on standard
-// output or standard error. See the SIGPIPE docs in os/signal, and
-// issue 11845.
-func epipecheck(file *File, e error) 
-
-// DevNull is the name of the operating system's â€œnull device.â€?// On Unix-like systems, it is "/dev/null"; on Windows, "NUL".
-const DevNull = "/dev/null"
