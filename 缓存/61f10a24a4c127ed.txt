@@ -1,1 +1,0 @@
-func (r *阅读器) 寻找(offset int64, 从何处 int) (新位置 int64, 错误 error) {}
